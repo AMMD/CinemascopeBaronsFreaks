@@ -10940,7 +10940,7 @@
   <property name="kdenlive:file_hash">f0051e9e4cc22d2f38d56b7166525a58</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f0051e9e4cc22d2f38d56b7166525a58.mpg</property>
   <property name="proxy_out">83</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0108.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0108.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11038,7 +11038,7 @@
   <property name="kdenlive:file_hash">dc0a8f403a8618cbb00c458f11a45652</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/dc0a8f403a8618cbb00c458f11a45652.mpg</property>
   <property name="proxy_out">479</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0109.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0109.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11136,7 +11136,7 @@
   <property name="kdenlive:file_hash">ba7c92271bea0b47caa81f87aae82b00</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ba7c92271bea0b47caa81f87aae82b00.mpg</property>
   <property name="proxy_out">1064</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0110.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0110.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11234,7 +11234,7 @@
   <property name="kdenlive:file_hash">624f7950d268f5083e784a00f1b79d8e</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/624f7950d268f5083e784a00f1b79d8e.mpg</property>
   <property name="proxy_out">1166</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0111.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0111.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11332,7 +11332,7 @@
   <property name="kdenlive:file_hash">df067103e232350daad6ad16b8886043</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/df067103e232350daad6ad16b8886043.mpg</property>
   <property name="proxy_out">959</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0112.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0112.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11430,7 +11430,7 @@
   <property name="kdenlive:file_hash">a8cef4aeda8add41ea4fb77cf828d934</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a8cef4aeda8add41ea4fb77cf828d934.mpg</property>
   <property name="proxy_out">308</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0114.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0114.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11528,7 +11528,7 @@
   <property name="kdenlive:file_hash">1b1ba48923e4967dade169f8ba322b78</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1b1ba48923e4967dade169f8ba322b78.mpg</property>
   <property name="proxy_out">980</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0113.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0113.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11626,7 +11626,7 @@
   <property name="kdenlive:file_hash">4b4b0f798a855312ceab9e711f283799</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/4b4b0f798a855312ceab9e711f283799.mpg</property>
   <property name="proxy_out">539</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0115.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0115.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11724,7 +11724,7 @@
   <property name="kdenlive:file_hash">a02d4bc6e097933f12222eb1a683bcdf</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a02d4bc6e097933f12222eb1a683bcdf.mpg</property>
   <property name="proxy_out">623</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0116.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0116.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11822,7 +11822,7 @@
   <property name="kdenlive:file_hash">b1417bad75dba58825e44d29e9a99703</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b1417bad75dba58825e44d29e9a99703.mpg</property>
   <property name="proxy_out">455</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0117.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0117.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11920,7 +11920,7 @@
   <property name="kdenlive:file_hash">1f69e6a4f2fb0a8786b997d0b69a82cf</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1f69e6a4f2fb0a8786b997d0b69a82cf.mpg</property>
   <property name="proxy_out">392</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0118.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0118.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12018,7 +12018,7 @@
   <property name="kdenlive:file_hash">abd4afa9ff2885ffd44e54fd71be2a51</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/abd4afa9ff2885ffd44e54fd71be2a51.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0119.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0119.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12116,7 +12116,7 @@
   <property name="kdenlive:file_hash">d118fae699ca412c125b73e67b8b5f10</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/d118fae699ca412c125b73e67b8b5f10.mpg</property>
   <property name="proxy_out">329</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0121.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0121.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12214,7 +12214,7 @@
   <property name="kdenlive:file_hash">90392f2862e63247ba8e0798fcd5b4f8</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/90392f2862e63247ba8e0798fcd5b4f8.mpg</property>
   <property name="proxy_out">533</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0120.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0120.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12312,7 +12312,7 @@
   <property name="kdenlive:file_hash">33277b73e20526c8dc98ef7891f3cb4b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/33277b73e20526c8dc98ef7891f3cb4b.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0123.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0123.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12410,7 +12410,7 @@
   <property name="kdenlive:file_hash">11a6333376f34c98e35c5681eeebb0c4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/11a6333376f34c98e35c5681eeebb0c4.mpg</property>
   <property name="proxy_out">962</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0122.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0122.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12508,7 +12508,7 @@
   <property name="kdenlive:file_hash">a16ba09ddaf1b1da634f83146c3efd5b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a16ba09ddaf1b1da634f83146c3efd5b.mpg</property>
   <property name="proxy_out">593</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0124.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0124.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12716,7 +12716,7 @@
   <property name="kdenlive:file_hash">c4ee000d5f7cad506952e4c5a7c752ae</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c4ee000d5f7cad506952e4c5a7c752ae.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/ampoule.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/ampoule.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12814,7 +12814,7 @@
   <property name="kdenlive:file_hash">752c0ed003837b8c01c5f73019caa24e</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/752c0ed003837b8c01c5f73019caa24e.mpg</property>
   <property name="proxy_out">332</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/clap.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/clap.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13260,7 +13260,7 @@
   <property name="kdenlive:file_hash">b60b8772c73a5a5c8007941065d856f0</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b60b8772c73a5a5c8007941065d856f0.mpg</property>
   <property name="proxy_out">161</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0002.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0002.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13358,7 +13358,7 @@
   <property name="kdenlive:file_hash">257d090f6c7163927372e3c2589c7728</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/257d090f6c7163927372e3c2589c7728.mpg</property>
   <property name="proxy_out">533</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0001.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0001.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13456,7 +13456,7 @@
   <property name="kdenlive:file_hash">a86868a1ebdf1c4f1e39123d729f50b9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a86868a1ebdf1c4f1e39123d729f50b9.mpg</property>
   <property name="proxy_out">977</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0004.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0004.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13554,7 +13554,7 @@
   <property name="kdenlive:file_hash">a554d4f87ccb09cb9f729c506a87c0bd</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a554d4f87ccb09cb9f729c506a87c0bd.mpg</property>
   <property name="proxy_out">1523</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0003.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0003.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13652,7 +13652,7 @@
   <property name="kdenlive:file_hash">694436ba0c453835de046c33b3508581</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/694436ba0c453835de046c33b3508581.mpg</property>
   <property name="proxy_out">626</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0005.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0005.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13750,7 +13750,7 @@
   <property name="kdenlive:file_hash">61410ad95bc99e66411d2a7e5efa7962</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/61410ad95bc99e66411d2a7e5efa7962.mpg</property>
   <property name="proxy_out">923</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0006.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0006.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13848,7 +13848,7 @@
   <property name="kdenlive:file_hash">817c81988526432e4677afef15f34c31</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/817c81988526432e4677afef15f34c31.mpg</property>
   <property name="proxy_out">896</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0007.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0007.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13946,7 +13946,7 @@
   <property name="kdenlive:file_hash">de7fa74c9f517cd14bf0a2a3d654763f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/de7fa74c9f517cd14bf0a2a3d654763f.mpg</property>
   <property name="proxy_out">881</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0008.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0008.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14044,7 +14044,7 @@
   <property name="kdenlive:file_hash">db38439e404742cbac4f7a63beaeb85d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db38439e404742cbac4f7a63beaeb85d.mpg</property>
   <property name="proxy_out">746</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0009.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14448,7 +14448,7 @@
   <property name="kdenlive:file_hash">1b1ba48923e4967dade169f8ba322b78</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1b1ba48923e4967dade169f8ba322b78.mpg</property>
   <property name="proxy_out">980</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0113.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0113.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15024,7 +15024,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/c4ee000d5f7cad506952e4c5a7c752ae.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c4ee000d5f7cad506952e4c5a7c752ae.mpg</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/ampoule.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/ampoule.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -15861,7 +15861,7 @@
   <property name="kdenlive:file_hash">1f69e6a4f2fb0a8786b997d0b69a82cf</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1f69e6a4f2fb0a8786b997d0b69a82cf.mpg</property>
   <property name="proxy_out">392</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0118.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0118.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15951,7 +15951,7 @@
   <property name="kdenlive:file_hash">abd4afa9ff2885ffd44e54fd71be2a51</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/abd4afa9ff2885ffd44e54fd71be2a51.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0119.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0119.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -16041,7 +16041,7 @@
   <property name="kdenlive:file_hash">a16ba09ddaf1b1da634f83146c3efd5b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a16ba09ddaf1b1da634f83146c3efd5b.mpg</property>
   <property name="proxy_out">593</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/DSC_0124.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/DSC_0124.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -16575,7 +16575,7 @@
   <property name="kdenlive:file_hash">c4ee000d5f7cad506952e4c5a7c752ae</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c4ee000d5f7cad506952e4c5a7c752ae.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/ampoule.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/ampoule.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -17157,7 +17157,7 @@
   <property name="kdenlive:file_hash">694436ba0c453835de046c33b3508581</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/694436ba0c453835de046c33b3508581.mpg</property>
   <property name="proxy_out">626</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0005.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0005.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -17247,7 +17247,7 @@
   <property name="kdenlive:file_hash">61410ad95bc99e66411d2a7e5efa7962</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/61410ad95bc99e66411d2a7e5efa7962.mpg</property>
   <property name="proxy_out">923</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0006.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0006.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -17337,7 +17337,7 @@
   <property name="kdenlive:file_hash">db38439e404742cbac4f7a63beaeb85d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db38439e404742cbac4f7a63beaeb85d.mpg</property>
   <property name="proxy_out">746</property>
-  <property name="kdenlive:originalurl">MaisonModernePrises2/Ascenseur/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonModernePrises2/Ascenseur/DSC_0009.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
