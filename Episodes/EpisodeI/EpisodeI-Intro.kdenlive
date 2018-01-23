@@ -11009,7 +11009,7 @@
   <property name="kdenlive:file_hash">6b03b6ad8640a83dd9bea765cbb64379</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6b03b6ad8640a83dd9bea765cbb64379.mpg</property>
   <property name="proxy_out">3290</property>
-  <property name="kdenlive:originalurl">Prevert/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Prevert/DSC_0012.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">1</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11089,7 +11089,7 @@
   <property name="kdenlive:file_hash">742eca5008e652b20ad59ba21668fe31</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/742eca5008e652b20ad59ba21668fe31.mpg</property>
   <property name="proxy_out">3978</property>
-  <property name="kdenlive:originalurl">Prevert/DSC_0011.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Prevert/DSC_0011.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">1</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11169,7 +11169,7 @@
   <property name="kdenlive:file_hash">004478735e90b446beaca6efe1b0ba8f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/004478735e90b446beaca6efe1b0ba8f.mpg</property>
   <property name="proxy_out">840</property>
-  <property name="kdenlive:originalurl">Prevert/DSC_0018.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Prevert/DSC_0018.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">1</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11571,7 +11571,7 @@
   <property name="kdenlive:file_hash">742eca5008e652b20ad59ba21668fe31</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/742eca5008e652b20ad59ba21668fe31.mpg</property>
   <property name="proxy_out">3978</property>
-  <property name="kdenlive:originalurl">Prevert/DSC_0011.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Prevert/DSC_0011.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">1</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11645,7 +11645,7 @@
   <property name="kdenlive:file_hash">6b03b6ad8640a83dd9bea765cbb64379</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6b03b6ad8640a83dd9bea765cbb64379.mpg</property>
   <property name="proxy_out">3290</property>
-  <property name="kdenlive:originalurl">Prevert/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Prevert/DSC_0012.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">1</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
