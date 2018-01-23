@@ -11217,7 +11217,7 @@
   <property name="kdenlive:file_hash">20eb0c3734141c88bb4394fde4fba117</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/20eb0c3734141c88bb4394fde4fba117.mpg</property>
   <property name="proxy_out">227</property>
-  <property name="kdenlive:originalurl">Chateau prises 2/DSC_0038.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Chateau prises 2/DSC_0038.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11315,7 +11315,7 @@
   <property name="kdenlive:file_hash">0a7655efdd33d98c42a14c13f4d78651</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0a7655efdd33d98c42a14c13f4d78651.mpg</property>
   <property name="proxy_out">569</property>
-  <property name="kdenlive:originalurl">Chateau prises 2/DSC_0039.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Chateau prises 2/DSC_0039.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11413,7 +11413,7 @@
   <property name="kdenlive:file_hash">9226c8f9386a2b98b9ec0646131a684c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9226c8f9386a2b98b9ec0646131a684c.mpg</property>
   <property name="proxy_out">878</property>
-  <property name="kdenlive:originalurl">Chateau prises 2/DSC_0040.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Chateau prises 2/DSC_0040.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11511,7 +11511,7 @@
   <property name="kdenlive:file_hash">a832d30c2dc4410b48b70c9a60cabd4a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a832d30c2dc4410b48b70c9a60cabd4a.mpg</property>
   <property name="proxy_out">1028</property>
-  <property name="kdenlive:originalurl">Chateau prises 2/DSC_0041.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Chateau prises 2/DSC_0041.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12842,7 +12842,7 @@
   <property name="kdenlive:file_hash">a832d30c2dc4410b48b70c9a60cabd4a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a832d30c2dc4410b48b70c9a60cabd4a.mpg</property>
   <property name="proxy_out">1028</property>
-  <property name="kdenlive:originalurl">Chateau prises 2/DSC_0041.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Chateau prises 2/DSC_0041.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
