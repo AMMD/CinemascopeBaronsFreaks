@@ -56,7 +56,7 @@
   <property name="kdenlive:file_hash">97900c39a821692f47f051488c341282</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/97900c39a821692f47f051488c341282.mpg</property>
   <property name="proxy_out">563</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0044.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0044.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -154,7 +154,7 @@
   <property name="kdenlive:file_hash">1760849d6e5321df7cc6cb25d01907dc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1760849d6e5321df7cc6cb25d01907dc.mpg</property>
   <property name="proxy_out">512</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0045.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0045.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -252,7 +252,7 @@
   <property name="kdenlive:file_hash">f0072d5ae772701dc690032d35a5f3d5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f0072d5ae772701dc690032d35a5f3d5.mpg</property>
   <property name="proxy_out">743</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0046.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0046.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -350,7 +350,7 @@
   <property name="kdenlive:file_hash">e976dea6bc8d35e15575dee41fee2f80</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e976dea6bc8d35e15575dee41fee2f80.mpg</property>
   <property name="proxy_out">803</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0047.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0047.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -448,7 +448,7 @@
   <property name="kdenlive:file_hash">ad2dbea65a715468544d24486ce48afc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ad2dbea65a715468544d24486ce48afc.mpg</property>
   <property name="proxy_out">791</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0049.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0049.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -546,7 +546,7 @@
   <property name="kdenlive:file_hash">df336bc3094edf52d95247f391e0df5f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/df336bc3094edf52d95247f391e0df5f.mpg</property>
   <property name="proxy_out">1283</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0048.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0048.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -644,7 +644,7 @@
   <property name="kdenlive:file_hash">a6516722fcad71cbb5a297f8f49026a5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a6516722fcad71cbb5a297f8f49026a5.mpg</property>
   <property name="proxy_out">227</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0050.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0050.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -742,7 +742,7 @@
   <property name="kdenlive:file_hash">f947b564b4574fca4e783edda8e26e72</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f947b564b4574fca4e783edda8e26e72.mpg</property>
   <property name="proxy_out">884</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0051.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0051.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -840,7 +840,7 @@
   <property name="kdenlive:file_hash">a366c079a418149da54768d23940463f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a366c079a418149da54768d23940463f.mpg</property>
   <property name="proxy_out">827</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0052.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0052.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -938,7 +938,7 @@
   <property name="kdenlive:file_hash">bafd392d6ee0c8c87edb8b902388e7ab</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/bafd392d6ee0c8c87edb8b902388e7ab.mpg</property>
   <property name="proxy_out">1421</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0053.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0053.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1036,7 +1036,7 @@
   <property name="kdenlive:file_hash">74b8d7ff72d4bd5efbb45556cd5a3a99</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/74b8d7ff72d4bd5efbb45556cd5a3a99.mpg</property>
   <property name="proxy_out">116</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0055.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0055.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1134,7 +1134,7 @@
   <property name="kdenlive:file_hash">3a8f7a3ec0d9f6298a6a6514cef1d024</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3a8f7a3ec0d9f6298a6a6514cef1d024.mpg</property>
   <property name="proxy_out">1685</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0054.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1232,7 +1232,7 @@
   <property name="kdenlive:file_hash">e4dd1c144a4f7c85c73583c031d9af3c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e4dd1c144a4f7c85c73583c031d9af3c.mpg</property>
   <property name="proxy_out">248</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0056.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0056.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1330,7 +1330,7 @@
   <property name="kdenlive:file_hash">a21e88641664f7c42d264d9ac3305954</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a21e88641664f7c42d264d9ac3305954.mpg</property>
   <property name="proxy_out">419</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0058.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0058.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1428,7 +1428,7 @@
   <property name="kdenlive:file_hash">22ba54fdff06c4d213393e94d2cd01a2</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22ba54fdff06c4d213393e94d2cd01a2.mpg</property>
   <property name="proxy_out">773</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0057.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0057.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1526,7 +1526,7 @@
   <property name="kdenlive:file_hash">499e27cd2b4b7e0d5f161272d7313aaf</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/499e27cd2b4b7e0d5f161272d7313aaf.mpg</property>
   <property name="proxy_out">434</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0059.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0059.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1624,7 +1624,7 @@
   <property name="kdenlive:file_hash">db2ba16615e6a4409b785ddb352f8547</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
   <property name="proxy_out">449</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0060.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1722,7 +1722,7 @@
   <property name="kdenlive:file_hash">8224797cba37a0cc721e14b491068b54</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8224797cba37a0cc721e14b491068b54.mpg</property>
   <property name="proxy_out">305</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0061.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0061.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1820,7 +1820,7 @@
   <property name="kdenlive:file_hash">22fae00423bd6231f5145cb14085299c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
   <property name="proxy_out">542</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0062.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1918,7 +1918,7 @@
   <property name="kdenlive:file_hash">3f9db6dfa9c40cca89d4bd332735ff1a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3f9db6dfa9c40cca89d4bd332735ff1a.mpg</property>
   <property name="proxy_out">476</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0064.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0064.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2016,7 +2016,7 @@
   <property name="kdenlive:file_hash">e6fd3290e6c277b93d8bc33196853e33</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e6fd3290e6c277b93d8bc33196853e33.mpg</property>
   <property name="proxy_out">104</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0065.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0065.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2114,7 +2114,7 @@
   <property name="kdenlive:file_hash">731f384e4801e1263455353c85eaaad9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
   <property name="proxy_out">1196</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0063.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2212,7 +2212,7 @@
   <property name="kdenlive:file_hash">458febe2cfca6c8026beed79091887c5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/458febe2cfca6c8026beed79091887c5.mpg</property>
   <property name="proxy_out">302</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0079.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0079.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2310,7 +2310,7 @@
   <property name="kdenlive:file_hash">44e8cee864c57a918188f49a09fe6ed9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/44e8cee864c57a918188f49a09fe6ed9.mpg</property>
   <property name="proxy_out">581</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0066.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0066.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2408,7 +2408,7 @@
   <property name="kdenlive:file_hash">c9f6cffdf46e059b70de2e6eec2ee07d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c9f6cffdf46e059b70de2e6eec2ee07d.mpg</property>
   <property name="proxy_out">989</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0081.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0081.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2506,7 +2506,7 @@
   <property name="kdenlive:file_hash">04a11ea9dfdfb14135d31f8b295f6f86</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/04a11ea9dfdfb14135d31f8b295f6f86.mpg</property>
   <property name="proxy_out">1436</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0080.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0080.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2604,7 +2604,7 @@
   <property name="kdenlive:file_hash">7db0ca8720755483569dab89c2c38e68</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7db0ca8720755483569dab89c2c38e68.mpg</property>
   <property name="proxy_out">395</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0082.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0082.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2702,7 +2702,7 @@
   <property name="kdenlive:file_hash">6297c5b90e9b410310c7a84a63b5425f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6297c5b90e9b410310c7a84a63b5425f.mpg</property>
   <property name="proxy_out">377</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0083.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0083.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2935,7 +2935,7 @@
   <property name="kdenlive:file_hash">e976dea6bc8d35e15575dee41fee2f80</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e976dea6bc8d35e15575dee41fee2f80.mpg</property>
   <property name="proxy_out">803</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0047.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0047.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3025,7 +3025,7 @@
   <property name="kdenlive:file_hash">3a8f7a3ec0d9f6298a6a6514cef1d024</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3a8f7a3ec0d9f6298a6a6514cef1d024.mpg</property>
   <property name="proxy_out">1685</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0054.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3113,7 +3113,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0063.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3222,7 +3222,7 @@
   <property name="kdenlive:file_hash">f0072d5ae772701dc690032d35a5f3d5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f0072d5ae772701dc690032d35a5f3d5.mpg</property>
   <property name="proxy_out">743</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0046.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0046.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3310,7 +3310,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/3a8f7a3ec0d9f6298a6a6514cef1d024.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3a8f7a3ec0d9f6298a6a6514cef1d024.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0054.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3356,7 +3356,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0060.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3402,7 +3402,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0060.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3448,7 +3448,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0060.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3494,7 +3494,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/db2ba16615e6a4409b785ddb352f8547.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0060.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3540,7 +3540,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0062.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3586,7 +3586,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0062.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3632,7 +3632,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0062.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3678,7 +3678,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0062.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3724,7 +3724,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/22fae00423bd6231f5145cb14085299c.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0062.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -3772,7 +3772,7 @@
   <property name="kdenlive:file_hash">44e8cee864c57a918188f49a09fe6ed9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/44e8cee864c57a918188f49a09fe6ed9.mpg</property>
   <property name="proxy_out">581</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0066.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0066.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4173,7 +4173,7 @@
   <property name="kdenlive:file_hash">c9f6cffdf46e059b70de2e6eec2ee07d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c9f6cffdf46e059b70de2e6eec2ee07d.mpg</property>
   <property name="proxy_out">989</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0081.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0081.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4263,7 +4263,7 @@
   <property name="kdenlive:file_hash">7db0ca8720755483569dab89c2c38e68</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7db0ca8720755483569dab89c2c38e68.mpg</property>
   <property name="proxy_out">395</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0082.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0082.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4353,7 +4353,7 @@
   <property name="kdenlive:file_hash">1760849d6e5321df7cc6cb25d01907dc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1760849d6e5321df7cc6cb25d01907dc.mpg</property>
   <property name="proxy_out">512</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0045.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0045.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4443,7 +4443,7 @@
   <property name="kdenlive:file_hash">3a8f7a3ec0d9f6298a6a6514cef1d024</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3a8f7a3ec0d9f6298a6a6514cef1d024.mpg</property>
   <property name="proxy_out">1685</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0054.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4533,7 +4533,7 @@
   <property name="kdenlive:file_hash">731f384e4801e1263455353c85eaaad9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
   <property name="proxy_out">1196</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0063.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4621,7 +4621,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0063.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -4667,7 +4667,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/731f384e4801e1263455353c85eaaad9.mpg</property>
-  <property name="kdenlive:originalurl">scène cave/DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cave/DSC_0063.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
