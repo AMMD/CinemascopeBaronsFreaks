@@ -1741,7 +1741,7 @@
   <property name="kdenlive:file_hash">85a50ffe61f1662f8e9574e46c5266e4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/85a50ffe61f1662f8e9574e46c5266e4.mpg</property>
   <property name="proxy_out">1451</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0009.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1839,7 +1839,7 @@
   <property name="kdenlive:file_hash">71f61a61ab6dbb296ca6bcb511918122</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/71f61a61ab6dbb296ca6bcb511918122.mpg</property>
   <property name="proxy_out">3395</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0010.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0010.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1937,7 +1937,7 @@
   <property name="kdenlive:file_hash">7229113f90b407aca56f4ee532996d7d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7229113f90b407aca56f4ee532996d7d.mpg</property>
   <property name="proxy_out">5846</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0008.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0008.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2035,7 +2035,7 @@
   <property name="kdenlive:file_hash">6461e6cd1403110291e4235321c63acb</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6461e6cd1403110291e4235321c63acb.mpg</property>
   <property name="proxy_out">845</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0012.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2133,7 +2133,7 @@
   <property name="kdenlive:file_hash">8f48f9b108d8953c6f9c8bc4bf656c80</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8f48f9b108d8953c6f9c8bc4bf656c80.mpg</property>
   <property name="proxy_out">6623</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0011.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0011.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2231,7 +2231,7 @@
   <property name="kdenlive:file_hash">6baa28dcbe2b9858a98328055b59bf8c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6baa28dcbe2b9858a98328055b59bf8c.mpg</property>
   <property name="proxy_out">1499</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0014.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0014.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2329,7 +2329,7 @@
   <property name="kdenlive:file_hash">631804d7300e8412bc0f9a7fefe128c0</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/631804d7300e8412bc0f9a7fefe128c0.mpg</property>
   <property name="proxy_out">50</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0015.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0015.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2427,7 +2427,7 @@
   <property name="kdenlive:file_hash">29bb05e2dbed7ca68e6b90ed9f806022</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/29bb05e2dbed7ca68e6b90ed9f806022.mpg</property>
   <property name="proxy_out">356</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0016.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0016.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2525,7 +2525,7 @@
   <property name="kdenlive:file_hash">7119180c4ce9d720c26d9b3157314a9a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7119180c4ce9d720c26d9b3157314a9a.mpg</property>
   <property name="proxy_out">2909</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0017.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0017.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2623,7 +2623,7 @@
   <property name="kdenlive:file_hash">bc9955a08478aff72ffe5ea61616a7ab</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/bc9955a08478aff72ffe5ea61616a7ab.mpg</property>
   <property name="proxy_out">314</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0019.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0019.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2721,7 +2721,7 @@
   <property name="kdenlive:file_hash">18030a634c7f0463f66ccea1acaec49a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/18030a634c7f0463f66ccea1acaec49a.mpg</property>
   <property name="proxy_out">188</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0020.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0020.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2819,7 +2819,7 @@
   <property name="kdenlive:file_hash">fa277a52db3712e5c9384695d4bbefec</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fa277a52db3712e5c9384695d4bbefec.mpg</property>
   <property name="proxy_out">185</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0021.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0021.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -2917,7 +2917,7 @@
   <property name="kdenlive:file_hash">c5355edc6ae00d629d7ee74d953734ea</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c5355edc6ae00d629d7ee74d953734ea.mpg</property>
   <property name="proxy_out">11084</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0013.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3015,7 +3015,7 @@
   <property name="kdenlive:file_hash">b4b84b1197d97ce09190a3126a304086</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b4b84b1197d97ce09190a3126a304086.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0022.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0022.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3113,7 +3113,7 @@
   <property name="kdenlive:file_hash">f8a35634813854195f175b1d1093ce7b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f8a35634813854195f175b1d1093ce7b.mpg</property>
   <property name="proxy_out">263</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0023.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0023.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3211,7 +3211,7 @@
   <property name="kdenlive:file_hash">4c547dceab8cd18e62bb9008f6ea75fd</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/4c547dceab8cd18e62bb9008f6ea75fd.mpg</property>
   <property name="proxy_out">149</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0025.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0025.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3309,7 +3309,7 @@
   <property name="kdenlive:file_hash">fb66588f46d6bd29c943c667131ba7e5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fb66588f46d6bd29c943c667131ba7e5.mpg</property>
   <property name="proxy_out">356</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0024.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0024.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3407,7 +3407,7 @@
   <property name="kdenlive:file_hash">d2324dac63335541decd727d921ad63f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/d2324dac63335541decd727d921ad63f.mpg</property>
   <property name="proxy_out">266</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0027.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0027.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3505,7 +3505,7 @@
   <property name="kdenlive:file_hash">f02a9b848e8ee2981be8a5b5006587d7</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f02a9b848e8ee2981be8a5b5006587d7.mpg</property>
   <property name="proxy_out">332</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0026.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0026.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3603,7 +3603,7 @@
   <property name="kdenlive:file_hash">f613b09aa2b4e3720fa3bcd72243cacf</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f613b09aa2b4e3720fa3bcd72243cacf.mpg</property>
   <property name="proxy_out">362</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0030.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0030.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3701,7 +3701,7 @@
   <property name="kdenlive:file_hash">a5057e41a8d8cb5e9878109f80845884</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a5057e41a8d8cb5e9878109f80845884.mpg</property>
   <property name="proxy_out">599</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0028.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0028.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3799,7 +3799,7 @@
   <property name="kdenlive:file_hash">a72e10d7ea9f3bf2bfd931d136911e21</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a72e10d7ea9f3bf2bfd931d136911e21.mpg</property>
   <property name="proxy_out">272</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0031.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0031.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3897,7 +3897,7 @@
   <property name="kdenlive:file_hash">243ab5e5e811a542836c7ea0d33b63e3</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/243ab5e5e811a542836c7ea0d33b63e3.mpg</property>
   <property name="proxy_out">758</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0033.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0033.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -3995,7 +3995,7 @@
   <property name="kdenlive:file_hash">047f7cf3fb16f05af1412db85bd1c507</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/047f7cf3fb16f05af1412db85bd1c507.mpg</property>
   <property name="proxy_out">860</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0032.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0032.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4093,7 +4093,7 @@
   <property name="kdenlive:file_hash">2ccb85b6bd9bf33f3ec80a75e72e2e79</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
   <property name="proxy_out">1508</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0034.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0034.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4191,7 +4191,7 @@
   <property name="kdenlive:file_hash">c9152fcf5bfb087eb0e8fb4e07e7e0d4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c9152fcf5bfb087eb0e8fb4e07e7e0d4.mpg</property>
   <property name="proxy_out">212</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0036.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0036.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4289,7 +4289,7 @@
   <property name="kdenlive:file_hash">cf4617af2d914524b2468c920de08b23</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/cf4617af2d914524b2468c920de08b23.mpg</property>
   <property name="proxy_out">2633</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0035.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0035.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4387,7 +4387,7 @@
   <property name="kdenlive:file_hash">8832d7cda7f901a0b021d6e301d2263b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8832d7cda7f901a0b021d6e301d2263b.mpg</property>
   <property name="proxy_out">860</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0037.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0037.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4485,7 +4485,7 @@
   <property name="kdenlive:file_hash">8f0ad7680e49bd36e077547e2d218eaa</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8f0ad7680e49bd36e077547e2d218eaa.mpg</property>
   <property name="proxy_out">350</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0038.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0038.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4583,7 +4583,7 @@
   <property name="kdenlive:file_hash">e13d4ec3cb3f48479184b774173e93c6</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e13d4ec3cb3f48479184b774173e93c6.mpg</property>
   <property name="proxy_out">128</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0040.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0040.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4681,7 +4681,7 @@
   <property name="kdenlive:file_hash">fec86b7e879662534bbce19248468e28</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fec86b7e879662534bbce19248468e28.mpg</property>
   <property name="proxy_out">1307</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0039.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0039.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4779,7 +4779,7 @@
   <property name="kdenlive:file_hash">27d43c0fa10015c1033eef4bd18011cf</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/27d43c0fa10015c1033eef4bd18011cf.mpg</property>
   <property name="proxy_out">200</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0042.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0042.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4877,7 +4877,7 @@
   <property name="kdenlive:file_hash">146b42ed3e70f81a31f820933361ee1d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/146b42ed3e70f81a31f820933361ee1d.mpg</property>
   <property name="proxy_out">2051</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0041.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0041.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6810,7 +6810,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/c5355edc6ae00d629d7ee74d953734ea.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c5355edc6ae00d629d7ee74d953734ea.mpg</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0013.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -6858,7 +6858,7 @@
   <property name="kdenlive:file_hash">c5355edc6ae00d629d7ee74d953734ea</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c5355edc6ae00d629d7ee74d953734ea.mpg</property>
   <property name="proxy_out">11084</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0013.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7128,7 +7128,7 @@
   <property name="kdenlive:file_hash">fa277a52db3712e5c9384695d4bbefec</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fa277a52db3712e5c9384695d4bbefec.mpg</property>
   <property name="proxy_out">185</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0021.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0021.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8267,7 +8267,7 @@
   <property name="kdenlive:file_hash">7119180c4ce9d720c26d9b3157314a9a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7119180c4ce9d720c26d9b3157314a9a.mpg</property>
   <property name="proxy_out">2909</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0017.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0017.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8355,7 +8355,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/7119180c4ce9d720c26d9b3157314a9a.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7119180c4ce9d720c26d9b3157314a9a.mpg</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0017.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0017.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -8581,7 +8581,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0034.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0034.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -8627,7 +8627,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0034.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0034.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -8673,7 +8673,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0034.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0034.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -8719,7 +8719,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2ccb85b6bd9bf33f3ec80a75e72e2e79.mpg</property>
-  <property name="kdenlive:originalurl">scène schoenberg/DSC_0034.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène schoenberg/DSC_0034.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
