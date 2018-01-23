@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="6.4.1" root="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII" producer="main bin" LC_NUMERIC="fr_FR.UTF-8">
+ <profile width="720" frame_rate_den="1" height="576" display_aspect_num="4" display_aspect_den="3" frame_rate_num="25" colorspace="601" sample_aspect_den="15" description="DV/DVD PAL" progressive="0" sample_aspect_num="16"/>
+ <producer id="1" title="Anonymous Submission" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">logoSteve-O.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">4209</property>
+  <property name="meta.media.height">2976</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">377511</property>
+  <property name="kdenlive:file_hash">daf829f3b55247dfcbdbe0a4d92d04f4</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:docproperties.audiotargettrack">-1</property>
+  <property name="kdenlive:docproperties.decimalPoint">,</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1498213271896</property>
+  <property name="kdenlive:docproperties.enableproxy">1</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
+  <property name="kdenlive:docproperties.position">48</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">dv_pal</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf scale=640:-1 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.version">0.95</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videotargettrack">1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups"/>
+  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4 - the dominating format (H264/AAC)</property>
+  <property name="kdenlive:docproperties.renderquality">15</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">225</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/logo steveO.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="xml_retain">1</property>
+  <entry out="124" producer="1" in="0"/>
+ </playlist>
+ <producer id="black" out="500" in="0">
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="238" producer="black" in="0"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Video 1</property>
+ </playlist>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Video 2</property>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="invert">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+   </filter>
+  </entry>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="filter0">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="filter1">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="filter2">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="filter3">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="filter4">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <entry out="16" producer="1" in="0"/>
+  <entry out="16" producer="1" in="0">
+   <filter id="filter5">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+    <property name="tag">invert</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+ </playlist>
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="238" in="0">
+  <track producer="black_track"/>
+  <track producer="playlist1"/>
+  <track producer="playlist2"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
