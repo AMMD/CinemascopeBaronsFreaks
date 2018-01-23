@@ -4730,7 +4730,7 @@
   <property name="kdenlive:file_hash">3e4ffb779d008c889506ae6da5026947</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3e4ffb779d008c889506ae6da5026947.mpg</property>
   <property name="proxy_out">863</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0126.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0126.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4828,7 +4828,7 @@
   <property name="kdenlive:file_hash">1c42af436b494b308cc65edec24f812b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1c42af436b494b308cc65edec24f812b.mpg</property>
   <property name="proxy_out">1631</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0125.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0125.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4926,7 +4926,7 @@
   <property name="kdenlive:file_hash">59619022ebf18fdbb93b6d6c1d1d0a10</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/59619022ebf18fdbb93b6d6c1d1d0a10.mpg</property>
   <property name="proxy_out">89</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0128.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0128.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5024,7 +5024,7 @@
   <property name="kdenlive:file_hash">e0789fa128de6ef3c01870ed38bb1af8</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e0789fa128de6ef3c01870ed38bb1af8.mpg</property>
   <property name="proxy_out">68</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0129.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0129.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5122,7 +5122,7 @@
   <property name="kdenlive:file_hash">a36f0f241ede144e6d6b2860b02bbcc1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a36f0f241ede144e6d6b2860b02bbcc1.mpg</property>
   <property name="proxy_out">1979</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0127.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0127.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7804,7 +7804,7 @@
   <property name="kdenlive:file_hash">a36f0f241ede144e6d6b2860b02bbcc1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a36f0f241ede144e6d6b2860b02bbcc1.mpg</property>
   <property name="proxy_out">1979</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0127.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0127.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7894,7 +7894,7 @@
   <property name="kdenlive:file_hash">59619022ebf18fdbb93b6d6c1d1d0a10</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/59619022ebf18fdbb93b6d6c1d1d0a10.mpg</property>
   <property name="proxy_out">89</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0128.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0128.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8806,7 +8806,7 @@
   <property name="kdenlive:file_hash">a36f0f241ede144e6d6b2860b02bbcc1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a36f0f241ede144e6d6b2860b02bbcc1.mpg</property>
   <property name="proxy_out">1979</property>
-  <property name="kdenlive:originalurl">Bonne maison/DSC_0127.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Bonne maison/DSC_0127.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
