@@ -5220,7 +5220,7 @@
   <property name="kdenlive:file_hash">10b28b8c83b3c55a79be47184be2861a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/10b28b8c83b3c55a79be47184be2861a.mpg</property>
   <property name="proxy_out">59</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0085.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0085.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5318,7 +5318,7 @@
   <property name="kdenlive:file_hash">6bd0be715641a8549206f7a344e68aea</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6bd0be715641a8549206f7a344e68aea.mpg</property>
   <property name="proxy_out">542</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0086.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0086.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5416,7 +5416,7 @@
   <property name="kdenlive:file_hash">cf992f3ab0954ae309aebf156e920ada</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/cf992f3ab0954ae309aebf156e920ada.mpg</property>
   <property name="proxy_out">329</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0087.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0087.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5514,7 +5514,7 @@
   <property name="kdenlive:file_hash">a9b1b71e0feebe976f6f02ceefeb45f2</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a9b1b71e0feebe976f6f02ceefeb45f2.mpg</property>
   <property name="proxy_out">1097</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0088.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0088.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5612,7 +5612,7 @@
   <property name="kdenlive:file_hash">e18023328c6099cae01256b7861f55bc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e18023328c6099cae01256b7861f55bc.mpg</property>
   <property name="proxy_out">896</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0090.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0090.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5710,7 +5710,7 @@
   <property name="kdenlive:file_hash">1fc66e79d9b171a73585e466d72711ad</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1fc66e79d9b171a73585e466d72711ad.mpg</property>
   <property name="proxy_out">653</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0091.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0091.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5808,7 +5808,7 @@
   <property name="kdenlive:file_hash">fe7676a8fe8a661163669a14fe1fb2b9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fe7676a8fe8a661163669a14fe1fb2b9.mpg</property>
   <property name="proxy_out">4295</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0089.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0089.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5906,7 +5906,7 @@
   <property name="kdenlive:file_hash">3764e5fa4d910ec77773f2ff8cdc62c9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3764e5fa4d910ec77773f2ff8cdc62c9.mpg</property>
   <property name="proxy_out">4271</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0092.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0092.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6004,7 +6004,7 @@
   <property name="kdenlive:file_hash">a9185e7b5e9b51b7d935a191f3e47618</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a9185e7b5e9b51b7d935a191f3e47618.mpg</property>
   <property name="proxy_out">5069</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0093.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0093.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8896,7 +8896,7 @@
   <property name="kdenlive:file_hash">a9185e7b5e9b51b7d935a191f3e47618</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a9185e7b5e9b51b7d935a191f3e47618.mpg</property>
   <property name="proxy_out">5069</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0093.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0093.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8984,7 +8984,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/a9185e7b5e9b51b7d935a191f3e47618.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a9185e7b5e9b51b7d935a191f3e47618.mpg</property>
-  <property name="kdenlive:originalurl">scène cuisinière/DSC_0093.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/scène cuisinière/DSC_0093.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
