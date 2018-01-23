@@ -10250,7 +10250,7 @@
   <property name="kdenlive:file_size">140853418</property>
   <property name="kdenlive:file_hash">0030433defe956e47b0738bfb8cdb12e</property>
   <property name="proxy_out">1441</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0007.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0007.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0030433defe956e47b0738bfb8cdb12e.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -10467,7 +10467,7 @@
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.1">Intro</property>
-  <property name="kdenlive:folder.-1.2">MaisonEcroulee</property>
+  <property name="kdenlive:folder.-1.2">Sources/Videos/MaisonEcroulee</property>
   <property name="kdenlive:docproperties.renderaudioquality">192</property>
   <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
@@ -10936,7 +10936,7 @@
   <property name="kdenlive:file_size">140853418</property>
   <property name="kdenlive:file_hash">0030433defe956e47b0738bfb8cdb12e</property>
   <property name="proxy_out">1441</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0007.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0007.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0030433defe956e47b0738bfb8cdb12e.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>

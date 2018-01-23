@@ -592,7 +592,7 @@
  <producer id="105" out="2098" in="0">
   <property name="length">00:01:23:24</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0001.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0001.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -643,12 +643,12 @@
   <property name="kdenlive:file_size">198844872</property>
   <property name="kdenlive:file_hash">d72555b2e543c6573ad1325ea7d60f5a</property>
   <property name="proxy_out">2098</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0001.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0001.MOV</property>
  </producer>
  <producer id="106" out="5545" in="0">
   <property name="length">00:03:41:21</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0002.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0002.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -699,12 +699,12 @@
   <property name="kdenlive:file_size">520905234</property>
   <property name="kdenlive:file_hash">159bc3598fcb3c3ef415eeedc552de94</property>
   <property name="proxy_out">5545</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0002.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0002.MOV</property>
  </producer>
  <producer id="107" out="2170" in="0">
   <property name="length">00:01:26:21</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0003.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0003.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -755,12 +755,12 @@
   <property name="kdenlive:file_size">206696215</property>
   <property name="kdenlive:file_hash">69d2c1ba911c09cd145ea4dc86060ead</property>
   <property name="proxy_out">2170</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0003.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0003.MOV</property>
  </producer>
  <producer id="108" out="152" in="0">
   <property name="length">00:00:06:03</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0004.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0004.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -811,12 +811,12 @@
   <property name="kdenlive:file_size">17016412</property>
   <property name="kdenlive:file_hash">928ce58d76187404624dac9c8ed132fa</property>
   <property name="proxy_out">152</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0004.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0004.MOV</property>
  </producer>
  <producer id="109" out="2936" in="0">
   <property name="length">00:01:57:12</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0005.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0005.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -867,12 +867,12 @@
   <property name="kdenlive:file_size">279058768</property>
   <property name="kdenlive:file_hash">a80078a99ebb3ab73daf2b60f492a9fa</property>
   <property name="proxy_out">2936</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0005.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0005.MOV</property>
  </producer>
  <producer id="110" out="1516" in="0">
   <property name="length">00:01:00:17</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0006.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0006.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -923,12 +923,12 @@
   <property name="kdenlive:file_size">152196069</property>
   <property name="kdenlive:file_hash">bee6a56b1fd6cbb57370fd0d86a3e423</property>
   <property name="proxy_out">1516</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0006.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0006.MOV</property>
  </producer>
  <producer id="111" out="1441" in="0">
   <property name="length">00:00:57:17</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0007.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0007.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -979,12 +979,12 @@
   <property name="kdenlive:file_size">140853418</property>
   <property name="kdenlive:file_hash">0030433defe956e47b0738bfb8cdb12e</property>
   <property name="proxy_out">1441</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0007.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0007.MOV</property>
  </producer>
  <producer id="112" out="809" in="0">
   <property name="length">00:00:32:10</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0008.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0008.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -1035,12 +1035,12 @@
   <property name="kdenlive:file_size">81596013</property>
   <property name="kdenlive:file_hash">ad4c4d054752a6de642e6f204bb68b76</property>
   <property name="proxy_out">809</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0008.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0008.MOV</property>
  </producer>
  <producer id="114" out="897" in="0">
   <property name="length">00:00:35:23</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0010.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0010.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -1091,12 +1091,12 @@
   <property name="kdenlive:file_size">87491005</property>
   <property name="kdenlive:file_hash">e08b00adf4632d7b357864d99e413318</property>
   <property name="proxy_out">897</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0010.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0010.MOV</property>
  </producer>
  <producer id="115" out="828" in="0">
   <property name="length">00:00:33:04</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0011.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0011.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -1147,12 +1147,12 @@
   <property name="kdenlive:file_size">80189578</property>
   <property name="kdenlive:file_hash">bca2fb9659d3ae4ac16f64a75964c16a</property>
   <property name="proxy_out">828</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0011.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0011.MOV</property>
  </producer>
  <producer id="116" out="287" in="0">
   <property name="length">00:00:11:13</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0012.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0012.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -1203,12 +1203,12 @@
   <property name="kdenlive:file_size">32254076</property>
   <property name="kdenlive:file_hash">be0b0b768009202fab6eed3b7c5869bc</property>
   <property name="proxy_out">287</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0012.MOV</property>
  </producer>
  <producer id="117" out="337" in="0">
   <property name="length">00:00:13:13</property>
   <property name="eof">pause</property>
-  <property name="resource">MaisonEcroulee/DSC_0013.MOV</property>
+  <property name="resource">Sources/Videos/MaisonEcroulee/DSC_0013.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -1259,7 +1259,7 @@
   <property name="kdenlive:file_size">37100827</property>
   <property name="kdenlive:file_hash">9260931f8a6d6af0a29ffb8c005aadf0</property>
   <property name="proxy_out">337</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0013.MOV</property>
  </producer>
  <producer id="7" title="Anonymous Submission" out="353" in="0">
   <property name="length">00:00:14:04</property>
@@ -6705,7 +6705,7 @@
   <property name="kdenlive:file_size">88545927</property>
   <property name="kdenlive:file_hash">da856cc46a89de825e23ab778cfc5481</property>
   <property name="proxy_out">900</property>
-  <property name="kdenlive:originalurl">MaisonEcroulee/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/MaisonEcroulee/DSC_0009.MOV</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/da856cc46a89de825e23ab778cfc5481.mpg</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
