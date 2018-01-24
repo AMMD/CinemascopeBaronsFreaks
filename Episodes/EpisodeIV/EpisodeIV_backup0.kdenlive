@@ -4109,7 +4109,7 @@
  <producer id="174" title="Anonymous Submission" out="5060" in="0">
   <property name="length">00:03:31:02</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4160,7 +4160,7 @@
   <property name="kdenlive:file_size">316987961</property>
   <property name="kdenlive:file_hash">4f20f9acfbca5179e8f354af993e7b78</property>
   <property name="proxy_out">5060</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4206,7 +4206,7 @@
  <producer id="175" title="Anonymous Submission" out="4556" in="0">
   <property name="length">00:03:10:02</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4257,7 +4257,7 @@
   <property name="kdenlive:file_size">285508930</property>
   <property name="kdenlive:file_hash">44636c8a886a3c4e5ec5b848a2ecb176</property>
   <property name="proxy_out">4556</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4303,7 +4303,7 @@
  <producer id="176" title="Anonymous Submission" out="2551" in="0">
   <property name="length">00:01:46:11</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5815.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5815.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4354,7 +4354,7 @@
   <property name="kdenlive:file_size">163577922</property>
   <property name="kdenlive:file_hash">3b6c07fa917fc1df725827aad757fad4</property>
   <property name="proxy_out">2551</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5815.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5815.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4400,7 +4400,7 @@
  <producer id="177" title="Anonymous Submission" out="1207" in="0">
   <property name="length">00:00:50:09</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5816.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5816.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4451,7 +4451,7 @@
   <property name="kdenlive:file_size">76978602</property>
   <property name="kdenlive:file_hash">7a24d0487382094a4164af64dc2ea915</property>
   <property name="proxy_out">1207</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5816.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5816.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4497,7 +4497,7 @@
  <producer id="179" title="Anonymous Submission" out="1622" in="0">
   <property name="length">00:01:07:17</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5818.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5818.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4548,7 +4548,7 @@
   <property name="kdenlive:file_size">106812123</property>
   <property name="kdenlive:file_hash">95a770bb3fd4828ca4eda104e7093e25</property>
   <property name="proxy_out">1622</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5818.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5818.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4594,7 +4594,7 @@
  <producer id="178" title="Anonymous Submission" out="4211" in="0">
   <property name="length">00:02:55:16</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5817.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5817.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4645,7 +4645,7 @@
   <property name="kdenlive:file_size">265221653</property>
   <property name="kdenlive:file_hash">c5f59c537361204311ef72ca5c128385</property>
   <property name="proxy_out">4211</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5817.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5817.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4691,7 +4691,7 @@
  <producer id="180" title="Anonymous Submission" out="1262" in="0">
   <property name="length">00:00:52:16</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5819.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5819.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4742,7 +4742,7 @@
   <property name="kdenlive:file_size">81623752</property>
   <property name="kdenlive:file_hash">63bd06c01083336e78ff9b862d38326b</property>
   <property name="proxy_out">1262</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5819.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5819.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -4788,7 +4788,7 @@
  <producer id="181" title="Anonymous Submission" out="4919" in="0">
   <property name="length">00:03:25:05</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5820.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5820.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4839,7 +4839,7 @@
   <property name="kdenlive:file_size">308005511</property>
   <property name="kdenlive:file_hash">efc150ccf221e2779ce6f615dda265a6</property>
   <property name="proxy_out">4919</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5820.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5820.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13666,7 +13666,7 @@
  <producer id="174_video" title="Anonymous Submission" out="5060" in="0">
   <property name="length">00:03:31:02</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -13709,7 +13709,7 @@
   <property name="kdenlive:file_size">316987961</property>
   <property name="kdenlive:file_hash">4f20f9acfbca5179e8f354af993e7b78</property>
   <property name="proxy_out">5060</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13764,7 +13764,7 @@
  <producer id="slowmotion:174:1,1:1:1" out="4600" in="0">
   <property name="length">4601</property>
   <property name="eof">pause</property>
-  <property name="resource">1,1:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="resource">1,1:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -13803,9 +13803,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,1</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -13818,7 +13818,7 @@
  <producer id="slowmotion:174:1,2:1:1" out="4216" in="0">
   <property name="length">4217</property>
   <property name="eof">pause</property>
-  <property name="resource">1,2:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="resource">1,2:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -13857,9 +13857,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,2</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -13872,7 +13872,7 @@
  <producer id="slowmotion:174:1,4:1:1" out="3614" in="0">
   <property name="length">3615</property>
   <property name="eof">pause</property>
-  <property name="resource">1,4:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="resource">1,4:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -13911,9 +13911,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,4</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5814.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5814.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -13926,7 +13926,7 @@
  <producer id="slowmotion:175:1,1:1:1" out="4142" in="0">
   <property name="length">4143</property>
   <property name="eof">pause</property>
-  <property name="resource">1,1:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">1,1:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -13965,9 +13965,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,1</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -13980,7 +13980,7 @@
  <producer id="slowmotion:175:1,2:1:1" out="3797" in="0">
   <property name="length">3798</property>
   <property name="eof">pause</property>
-  <property name="resource">1,2:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">1,2:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -14019,9 +14019,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,2</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -14034,7 +14034,7 @@
  <producer id="slowmotion:175:1,4:1:1" out="3254" in="0">
   <property name="length">3255</property>
   <property name="eof">pause</property>
-  <property name="resource">1,4:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">1,4:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -14073,9 +14073,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,4</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -14088,7 +14088,7 @@
  <producer id="slowmotion:175:1,6:1:1" out="2847" in="0">
   <property name="length">2848</property>
   <property name="eof">pause</property>
-  <property name="resource">1,6:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">1,6:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -14127,9 +14127,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,6</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -14142,7 +14142,7 @@
  <producer id="slowmotion:175:3:1:1" out="1518" in="0">
   <property name="length">1519</property>
   <property name="eof">pause</property>
-  <property name="resource">3:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">3:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -14181,9 +14181,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">3</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -14196,7 +14196,7 @@
  <producer id="slowmotion:175:1,5:1:1" out="3037" in="0">
   <property name="length">3038</property>
   <property name="eof">pause</property>
-  <property name="resource">1,5:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="resource">1,5:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -14235,9 +14235,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,5</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Cuisine/DSC_5821.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/Cuisine/DSC_5821.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
