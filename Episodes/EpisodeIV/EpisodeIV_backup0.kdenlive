@@ -3510,7 +3510,7 @@
  <producer id="56" title="Anonymous Submission" out="122" in="0">
   <property name="length">00:00:05:03</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0059.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0059.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -3553,7 +3553,7 @@
   <property name="kdenlive:file_size">5616830</property>
   <property name="kdenlive:file_hash">ac84f9b9f9284b57e13735cb46c9440a</property>
   <property name="proxy_out">122</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0059.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0059.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -3607,7 +3607,7 @@
  <producer id="57" title="Anonymous Submission" out="929" in="0">
   <property name="length">00:00:38:19</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0060.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0060.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -3650,7 +3650,7 @@
   <property name="kdenlive:file_size">42106758</property>
   <property name="kdenlive:file_hash">12f7a3ec2c0ac1b5e93162535f2a40fd</property>
   <property name="proxy_out">929</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0060.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -3704,7 +3704,7 @@
  <producer id="55" title="Anonymous Submission" out="707" in="0">
   <property name="length">00:00:29:13</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0058.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0058.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -3747,7 +3747,7 @@
   <property name="kdenlive:file_size">32192751</property>
   <property name="kdenlive:file_hash">e78b7e77b24fa2df30c347d3e2785482</property>
   <property name="proxy_out">707</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0058.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0058.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -3801,7 +3801,7 @@
  <producer id="54" title="Anonymous Submission" out="149" in="0">
   <property name="length">00:00:06:06</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0057.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0057.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -3844,7 +3844,7 @@
   <property name="kdenlive:file_size">7922702</property>
   <property name="kdenlive:file_hash">b2f1db7d2d35afd96611fe47a36f5963</property>
   <property name="proxy_out">149</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0057.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0057.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -3898,7 +3898,7 @@
  <producer id="52" title="Anonymous Submission" out="1331" in="0">
   <property name="length">00:00:55:13</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0054.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0054.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -3941,7 +3941,7 @@
   <property name="kdenlive:file_size">59714537</property>
   <property name="kdenlive:file_hash">cfdf618c4ce33f4c9e6ced6ec6911a2d</property>
   <property name="proxy_out">1331</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0054.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -3995,7 +3995,7 @@
  <producer id="53" title="Anonymous Submission" out="1769" in="0">
   <property name="length">00:01:13:20</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0055.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0055.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -4038,7 +4038,7 @@
   <property name="kdenlive:file_size">79329179</property>
   <property name="kdenlive:file_hash">6fd195e3a54d6975cfab39702b5e6955</property>
   <property name="proxy_out">1769</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0055.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0055.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5219,7 +5219,7 @@
   <property name="kdenlive:file_size">38277276</property>
   <property name="kdenlive:file_hash">f00b3d3fdfc2682859172faf9d7b55f4</property>
   <property name="proxy_out">848</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0018.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0018.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5317,7 +5317,7 @@
   <property name="kdenlive:file_size">88301465</property>
   <property name="kdenlive:file_hash">2a84185d4ee2e64167447c9314fef764</property>
   <property name="proxy_out">1961</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0038.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0038.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5415,7 +5415,7 @@
   <property name="kdenlive:file_size">31198021</property>
   <property name="kdenlive:file_hash">3736f1c8761458d408053baa154bb76b</property>
   <property name="proxy_out">686</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0045.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0045.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5513,7 +5513,7 @@
   <property name="kdenlive:file_size">96201644</property>
   <property name="kdenlive:file_hash">a83701930c48aa652fd44af1d8dfe717</property>
   <property name="proxy_out">2147</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0049.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0049.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5611,7 +5611,7 @@
   <property name="kdenlive:file_size">23468672</property>
   <property name="kdenlive:file_hash">4edded31fa3c6e6f3328d8a9ae447074</property>
   <property name="proxy_out">515</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0050.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0050.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5709,7 +5709,7 @@
   <property name="kdenlive:file_size">21136771</property>
   <property name="kdenlive:file_hash">51ecd2ddfee45b2a60bd3573a47c682e</property>
   <property name="proxy_out">470</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0051.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0051.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5807,7 +5807,7 @@
   <property name="kdenlive:file_size">26013582</property>
   <property name="kdenlive:file_hash">8b9394046237d5692f0ad7b1248aab3e</property>
   <property name="proxy_out">578</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0053.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0053.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -5905,7 +5905,7 @@
   <property name="kdenlive:file_size">21066635</property>
   <property name="kdenlive:file_hash">3523ddd351cbae2424aa6192bd758b48</property>
   <property name="proxy_out">461</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0061.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0061.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -6003,7 +6003,7 @@
   <property name="kdenlive:file_size">46639939</property>
   <property name="kdenlive:file_hash">ac46fe43f3d1b642881eede8c76c6ed4</property>
   <property name="proxy_out">1025</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0062.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -6125,7 +6125,7 @@
   <property name="kdenlive:file_hash">07ed822171ef5c3592116f4f938449bb</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/07ed822171ef5c3592116f4f938449bb-640.mpg</property>
   <property name="proxy_out">563</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0005.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0005.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6223,7 +6223,7 @@
   <property name="kdenlive:file_hash">1c5064b78b78a3060d9882bdd3d170ed</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1c5064b78b78a3060d9882bdd3d170ed-640.mpg</property>
   <property name="proxy_out">339</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0006.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0006.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6321,7 +6321,7 @@
   <property name="kdenlive:file_hash">da50cfce9c89def38636d825677c1900</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/da50cfce9c89def38636d825677c1900-640.mpg</property>
   <property name="proxy_out">981</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0004.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0004.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6419,7 +6419,7 @@
   <property name="kdenlive:file_hash">aa86534775134a26ea82a981c08cf2ea</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/aa86534775134a26ea82a981c08cf2ea-640.mpg</property>
   <property name="proxy_out">450</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0008.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0008.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6517,7 +6517,7 @@
   <property name="kdenlive:file_hash">0e0602c24935bf3fb649f326ddb2e85d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0e0602c24935bf3fb649f326ddb2e85d-640.mpg</property>
   <property name="proxy_out">1175</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0007.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0007.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6614,7 +6614,7 @@
   <property name="kdenlive:file_size">147922124</property>
   <property name="kdenlive:file_hash">460f0abc29e1a7091b9f4fc5cb5c094f</property>
   <property name="proxy_out">3314</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0009.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -6712,7 +6712,7 @@
   <property name="kdenlive:file_size">28927177</property>
   <property name="kdenlive:file_hash">9cd79c6f1a0d8723ed06672d5f6d44c5</property>
   <property name="proxy_out">638</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0011.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0011.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -6810,7 +6810,7 @@
   <property name="kdenlive:file_size">150639375</property>
   <property name="kdenlive:file_hash">eac6ff71c9321f1fe0a365ffa6f13480</property>
   <property name="proxy_out">3374</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0010.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0010.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -6908,7 +6908,7 @@
   <property name="kdenlive:file_size">29208356</property>
   <property name="kdenlive:file_hash">36c516be978cb1b30acf1853e8d70b21</property>
   <property name="proxy_out">641</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0012.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7006,7 +7006,7 @@
   <property name="kdenlive:file_size">33345545</property>
   <property name="kdenlive:file_hash">2b009149e21bcd42c78b980d4fd6ea9c</property>
   <property name="proxy_out">737</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0013.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7104,7 +7104,7 @@
   <property name="kdenlive:file_size">11518265</property>
   <property name="kdenlive:file_hash">f5523e878f4143e68e2cac9e7c958a64</property>
   <property name="proxy_out">251</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0015.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0015.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7202,7 +7202,7 @@
   <property name="kdenlive:file_size">11984800</property>
   <property name="kdenlive:file_hash">16eb52f2f408ddc6cafcaef668cec9e2</property>
   <property name="proxy_out">260</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0016.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0016.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7300,7 +7300,7 @@
   <property name="kdenlive:file_size">17999988</property>
   <property name="kdenlive:file_hash">e69e2bd51056b34050d28cd46202b460</property>
   <property name="proxy_out">395</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0017.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0017.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7398,7 +7398,7 @@
   <property name="kdenlive:file_size">26871859</property>
   <property name="kdenlive:file_hash">40ae80a6c51e7beecd49d855d5001dcb</property>
   <property name="proxy_out">587</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0019.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0019.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7496,7 +7496,7 @@
   <property name="kdenlive:file_size">29830441</property>
   <property name="kdenlive:file_hash">3ade1271d5a2d6d5b3a0dfce09800a6d</property>
   <property name="proxy_out">662</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0020.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0020.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7594,7 +7594,7 @@
   <property name="kdenlive:file_size">25410278</property>
   <property name="kdenlive:file_hash">0c3366eced9dbe54e6664c89ea9eee0f</property>
   <property name="proxy_out">551</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0021.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0021.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7692,7 +7692,7 @@
   <property name="kdenlive:file_size">40805768</property>
   <property name="kdenlive:file_hash">09d94fad9aa0465cafa517b7071a7e72</property>
   <property name="proxy_out">923</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0022.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0022.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7790,7 +7790,7 @@
   <property name="kdenlive:file_size">34236895</property>
   <property name="kdenlive:file_hash">4c8c21bb9fcf26d1ba37a37455b05f34</property>
   <property name="proxy_out">773</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0023.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0023.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7888,7 +7888,7 @@
   <property name="kdenlive:file_size">34963261</property>
   <property name="kdenlive:file_hash">0c57acdfc6fae7c1bb2b2bb873b416d4</property>
   <property name="proxy_out">779</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0024.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0024.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -7986,7 +7986,7 @@
   <property name="kdenlive:file_size">1654347</property>
   <property name="kdenlive:file_hash">fa5ec8725e383d6bc03eee48fa408693</property>
   <property name="proxy_out">32</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0026.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0026.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8084,7 +8084,7 @@
   <property name="kdenlive:file_size">35461144</property>
   <property name="kdenlive:file_hash">a84d00934651492b612eb3ef505fca89</property>
   <property name="proxy_out">782</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0027.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0027.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8182,7 +8182,7 @@
   <property name="kdenlive:file_size">76481892</property>
   <property name="kdenlive:file_hash">b60582fc5e05f3d99ea163014e454c19</property>
   <property name="proxy_out">1727</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0025.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0025.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8280,7 +8280,7 @@
   <property name="kdenlive:file_size">5682741</property>
   <property name="kdenlive:file_hash">d85d36f5b4647e0edc2f6777a54350fb</property>
   <property name="proxy_out">119</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0029.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0029.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8378,7 +8378,7 @@
   <property name="kdenlive:file_size">33104254</property>
   <property name="kdenlive:file_hash">f2a9dab7b31f4fd93a882ed5080833c3</property>
   <property name="proxy_out">731</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0030.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0030.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8476,7 +8476,7 @@
   <property name="kdenlive:file_size">38176412</property>
   <property name="kdenlive:file_hash">4f418ea3c688a91fa0ba60ba99c4c7b1</property>
   <property name="proxy_out">836</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0031.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0031.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8574,7 +8574,7 @@
   <property name="kdenlive:file_size">39573405</property>
   <property name="kdenlive:file_hash">c10edc2e1c794399255907779071b983</property>
   <property name="proxy_out">872</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0032.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0032.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8672,7 +8672,7 @@
   <property name="kdenlive:file_size">35727649</property>
   <property name="kdenlive:file_hash">ca80341a67e0d943068baafd62604647</property>
   <property name="proxy_out">779</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0033.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0033.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8770,7 +8770,7 @@
   <property name="kdenlive:file_size">171126156</property>
   <property name="kdenlive:file_hash">903ca3289014e96d570267467727ee7c</property>
   <property name="proxy_out">3845</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0028.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0028.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8868,7 +8868,7 @@
   <property name="kdenlive:file_size">198687973</property>
   <property name="kdenlive:file_hash">cc6da1b2c21a41993a0a585e0c080fe1</property>
   <property name="proxy_out">4469</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0035.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0035.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -8966,7 +8966,7 @@
   <property name="kdenlive:file_size">206289650</property>
   <property name="kdenlive:file_hash">8e83a868e8b34d5f447d8152607236de</property>
   <property name="proxy_out">4640</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0034.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0034.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9064,7 +9064,7 @@
   <property name="kdenlive:file_size">16499084</property>
   <property name="kdenlive:file_hash">5e8953b132a335400df0966e0824055a</property>
   <property name="proxy_out">362</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0036.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0036.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9162,7 +9162,7 @@
   <property name="kdenlive:file_size">42643189</property>
   <property name="kdenlive:file_hash">39e0d3fa30126a7d1903e938c6e72162</property>
   <property name="proxy_out">941</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0039.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0039.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9260,7 +9260,7 @@
   <property name="kdenlive:file_size">26540483</property>
   <property name="kdenlive:file_hash">1e4df2286fb01029949fb9b8a62e4ed3</property>
   <property name="proxy_out">581</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0041.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0041.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9358,7 +9358,7 @@
   <property name="kdenlive:file_size">12306230</property>
   <property name="kdenlive:file_hash">a83549597070fb2f1209f3186d3516ba</property>
   <property name="proxy_out">266</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0042.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0042.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9456,7 +9456,7 @@
   <property name="kdenlive:file_size">9723140</property>
   <property name="kdenlive:file_hash">cad0042cb165902398e855370099b7b2</property>
   <property name="proxy_out">209</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0043.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0043.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9554,7 +9554,7 @@
   <property name="kdenlive:file_size">43566456</property>
   <property name="kdenlive:file_hash">8d717a0e5f1674a020acc1ad4999c10b</property>
   <property name="proxy_out">962</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0044.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0044.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9652,7 +9652,7 @@
   <property name="kdenlive:file_size">55245024</property>
   <property name="kdenlive:file_hash">b007cd4a1a29c5dcd846a86ee343a762</property>
   <property name="proxy_out">1223</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0046.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0046.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9750,7 +9750,7 @@
   <property name="kdenlive:file_size">422165340</property>
   <property name="kdenlive:file_hash">b6e02f0289cacdbbaa157638c749679f</property>
   <property name="proxy_out">9551</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0037.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0037.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -9848,7 +9848,7 @@
   <property name="kdenlive:file_size">226883672</property>
   <property name="kdenlive:file_hash">6a21e84e0d7fb61b58bbf448af47159b</property>
   <property name="proxy_out">5081</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0047.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0047.MOV</property>
   <property name="global_feed">1</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
@@ -10353,7 +10353,7 @@
   <property name="kdenlive:file_hash">da50cfce9c89def38636d825677c1900</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/da50cfce9c89def38636d825677c1900-640.mpg</property>
   <property name="proxy_out">981</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0004.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0004.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10442,7 +10442,7 @@
   <property name="kdenlive:file_size">198687973</property>
   <property name="kdenlive:file_hash">cc6da1b2c21a41993a0a585e0c080fe1</property>
   <property name="proxy_out">4469</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0035.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0035.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/cc6da1b2c21a41993a0a585e0c080fe1-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -10532,7 +10532,7 @@
   <property name="kdenlive:file_size">42643189</property>
   <property name="kdenlive:file_hash">39e0d3fa30126a7d1903e938c6e72162</property>
   <property name="proxy_out">941</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0039.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0039.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/39e0d3fa30126a7d1903e938c6e72162-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -10622,7 +10622,7 @@
   <property name="kdenlive:file_size">26013582</property>
   <property name="kdenlive:file_hash">8b9394046237d5692f0ad7b1248aab3e</property>
   <property name="proxy_out">578</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0053.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0053.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8b9394046237d5692f0ad7b1248aab3e-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -10712,7 +10712,7 @@
   <property name="kdenlive:file_size">422165340</property>
   <property name="kdenlive:file_hash">b6e02f0289cacdbbaa157638c749679f</property>
   <property name="proxy_out">9551</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0037.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0037.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b6e02f0289cacdbbaa157638c749679f-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -10802,7 +10802,7 @@
   <property name="kdenlive:file_size">147922124</property>
   <property name="kdenlive:file_hash">460f0abc29e1a7091b9f4fc5cb5c094f</property>
   <property name="proxy_out">3314</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0009.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/460f0abc29e1a7091b9f4fc5cb5c094f-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -10892,7 +10892,7 @@
   <property name="kdenlive:file_size">29208356</property>
   <property name="kdenlive:file_hash">36c516be978cb1b30acf1853e8d70b21</property>
   <property name="proxy_out">641</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0012.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/36c516be978cb1b30acf1853e8d70b21-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -11839,7 +11839,7 @@
  <producer id="53_video" title="Anonymous Submission" out="1769" in="0">
   <property name="length">00:01:13:20</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0055.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0055.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -11882,7 +11882,7 @@
   <property name="kdenlive:file_size">79329179</property>
   <property name="kdenlive:file_hash">6fd195e3a54d6975cfab39702b5e6955</property>
   <property name="proxy_out">1769</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0055.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0055.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11971,7 +11971,7 @@
   <property name="kdenlive:file_size">31198021</property>
   <property name="kdenlive:file_hash">3736f1c8761458d408053baa154bb76b</property>
   <property name="proxy_out">686</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0045.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0045.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3736f1c8761458d408053baa154bb76b-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12061,7 +12061,7 @@
   <property name="kdenlive:file_size">21066635</property>
   <property name="kdenlive:file_hash">3523ddd351cbae2424aa6192bd758b48</property>
   <property name="proxy_out">461</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0061.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0061.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3523ddd351cbae2424aa6192bd758b48-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12170,7 +12170,7 @@
  <producer id="slowmotion:55:0,42:1:1" out="1685" in="0">
   <property name="length">1686</property>
   <property name="eof">pause</property>
-  <property name="resource">0,42:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0058.MOV</property>
+  <property name="resource">0,42:/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0058.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -12209,9 +12209,9 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">0,42</property>
-  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0058.MOV</property>
+  <property name="warp_resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0058.MOV</property>
   <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0058.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0058.MOV</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">601</property>
@@ -12224,7 +12224,7 @@
  <producer id="56_video" title="Anonymous Submission" out="122" in="0">
   <property name="length">00:00:05:03</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0059.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0059.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -12267,7 +12267,7 @@
   <property name="kdenlive:file_size">5616830</property>
   <property name="kdenlive:file_hash">ac84f9b9f9284b57e13735cb46c9440a</property>
   <property name="proxy_out">122</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0059.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0059.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12356,7 +12356,7 @@
   <property name="kdenlive:file_size">35727649</property>
   <property name="kdenlive:file_hash">ca80341a67e0d943068baafd62604647</property>
   <property name="proxy_out">779</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0033.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0033.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ca80341a67e0d943068baafd62604647-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12446,7 +12446,7 @@
   <property name="kdenlive:file_size">17999988</property>
   <property name="kdenlive:file_hash">e69e2bd51056b34050d28cd46202b460</property>
   <property name="proxy_out">395</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0017.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0017.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e69e2bd51056b34050d28cd46202b460-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12536,7 +12536,7 @@
   <property name="kdenlive:file_size">25410278</property>
   <property name="kdenlive:file_hash">0c3366eced9dbe54e6664c89ea9eee0f</property>
   <property name="proxy_out">551</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0021.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0021.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0c3366eced9dbe54e6664c89ea9eee0f-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12626,7 +12626,7 @@
   <property name="kdenlive:file_size">76481892</property>
   <property name="kdenlive:file_hash">b60582fc5e05f3d99ea163014e454c19</property>
   <property name="proxy_out">1727</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0025.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0025.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b60582fc5e05f3d99ea163014e454c19-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12715,7 +12715,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/b60582fc5e05f3d99ea163014e454c19-640.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b60582fc5e05f3d99ea163014e454c19-640.mpg</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0025.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0025.MOV</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">601</property>
@@ -12762,7 +12762,7 @@
   <property name="kdenlive:file_size">33345545</property>
   <property name="kdenlive:file_hash">2b009149e21bcd42c78b980d4fd6ea9c</property>
   <property name="proxy_out">737</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0013.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2b009149e21bcd42c78b980d4fd6ea9c-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -12851,7 +12851,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/2b009149e21bcd42c78b980d4fd6ea9c-640.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2b009149e21bcd42c78b980d4fd6ea9c-640.mpg</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0013.MOV</property>
   <property name="meta.media.frame_rate_num">24000</property>
   <property name="meta.media.frame_rate_den">1001</property>
   <property name="meta.media.colorspace">601</property>
@@ -14446,7 +14446,7 @@
  <producer id="52_video" title="Anonymous Submission" out="1331" in="0">
   <property name="length">00:00:55:13</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0054.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0054.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -14489,7 +14489,7 @@
   <property name="kdenlive:file_size">59714537</property>
   <property name="kdenlive:file_hash">cfdf618c4ce33f4c9e6ced6ec6911a2d</property>
   <property name="proxy_out">1331</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0054.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14544,7 +14544,7 @@
  <producer id="57_video" title="Anonymous Submission" out="929" in="0">
   <property name="length">00:00:38:19</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0060.MOV</property>
+  <property name="resource">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0060.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -14587,7 +14587,7 @@
   <property name="kdenlive:file_size">42106758</property>
   <property name="kdenlive:file_hash">12f7a3ec2c0ac1b5e93162535f2a40fd</property>
   <property name="proxy_out">929</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0060.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14676,7 +14676,7 @@
   <property name="kdenlive:file_size">23468672</property>
   <property name="kdenlive:file_hash">4edded31fa3c6e6f3328d8a9ae447074</property>
   <property name="proxy_out">515</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0050.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0050.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/4edded31fa3c6e6f3328d8a9ae447074-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -14766,7 +14766,7 @@
   <property name="kdenlive:file_size">46639939</property>
   <property name="kdenlive:file_hash">ac46fe43f3d1b642881eede8c76c6ed4</property>
   <property name="proxy_out">1025</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0062.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ac46fe43f3d1b642881eede8c76c6ed4-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -14909,7 +14909,7 @@
   <property name="kdenlive:file_size">35461144</property>
   <property name="kdenlive:file_hash">a84d00934651492b612eb3ef505fca89</property>
   <property name="proxy_out">782</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0027.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0027.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a84d00934651492b612eb3ef505fca89-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -14999,7 +14999,7 @@
   <property name="kdenlive:file_size">171126156</property>
   <property name="kdenlive:file_hash">903ca3289014e96d570267467727ee7c</property>
   <property name="proxy_out">3845</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0028.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0028.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/903ca3289014e96d570267467727ee7c-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -15807,7 +15807,7 @@
   <property name="kdenlive:file_size">198687973</property>
   <property name="kdenlive:file_hash">cc6da1b2c21a41993a0a585e0c080fe1</property>
   <property name="proxy_out">4469</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0035.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0035.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/cc6da1b2c21a41993a0a585e0c080fe1-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -15897,7 +15897,7 @@
   <property name="kdenlive:file_size">96201644</property>
   <property name="kdenlive:file_hash">a83701930c48aa652fd44af1d8dfe717</property>
   <property name="proxy_out">2147</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0049.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0049.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a83701930c48aa652fd44af1d8dfe717-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -15987,7 +15987,7 @@
   <property name="kdenlive:file_size">55245024</property>
   <property name="kdenlive:file_hash">b007cd4a1a29c5dcd846a86ee343a762</property>
   <property name="proxy_out">1223</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0046.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0046.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b007cd4a1a29c5dcd846a86ee343a762-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
@@ -16077,7 +16077,7 @@
   <property name="kdenlive:file_size">21136771</property>
   <property name="kdenlive:file_hash">51ecd2ddfee45b2a60bd3573a47c682e</property>
   <property name="proxy_out">470</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/ScenesSalon/DSC_0051.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/ScenesSalon/DSC_0051.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/51ecd2ddfee45b2a60bd3573a47c682e-640.mpg</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
