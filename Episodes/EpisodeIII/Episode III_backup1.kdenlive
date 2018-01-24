@@ -966,7 +966,7 @@
  <producer id="84" title="Anonymous Submission" out="1083" in="0">
   <property name="length">00:00:43:09</property>
   <property name="eof">pause</property>
-  <property name="resource">Damien 2/DSC_0006.MOV</property>
+  <property name="resource">Sources/Videos/Damien 2/DSC_0006.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -1022,7 +1022,7 @@
  <producer id="85" title="Anonymous Submission" out="213" in="0">
   <property name="length">00:00:08:14</property>
   <property name="eof">pause</property>
-  <property name="resource">Damien 2/DSC_0013.MOV</property>
+  <property name="resource">Sources/Videos/Damien 2/DSC_0013.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -2219,7 +2219,7 @@
  <producer id="83" title="Anonymous Submission" out="723" in="0">
   <property name="length">00:00:28:24</property>
   <property name="eof">pause</property>
-  <property name="resource">Damien 2/DSC_0009.MOV</property>
+  <property name="resource">Sources/Videos/Damien 2/DSC_0009.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -4560,7 +4560,7 @@
  <producer id="84_playlist4" out="1083" in="0">
   <property name="length">1084</property>
   <property name="eof">pause</property>
-  <property name="resource">Damien 2/DSC_0006.MOV</property>
+  <property name="resource">Sources/Videos/Damien 2/DSC_0006.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -4611,7 +4611,7 @@
  <producer id="85_playlist4" out="213" in="0">
   <property name="length">214</property>
   <property name="eof">pause</property>
-  <property name="resource">Damien 2/DSC_0013.MOV</property>
+  <property name="resource">Sources/Videos/Damien 2/DSC_0013.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -5614,7 +5614,7 @@
  <producer id="83_playlist4" out="723" in="0">
   <property name="length">724</property>
   <property name="eof">pause</property>
-  <property name="resource">Damien 2/DSC_0009.MOV</property>
+  <property name="resource">Sources/Videos/Damien 2/DSC_0009.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>

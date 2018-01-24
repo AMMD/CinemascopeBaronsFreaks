@@ -950,7 +950,7 @@
   <property name="mlt_type">producer</property>
   <property name="length">1084</property>
   <property name="eof">pause</property>
-  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Damien 2/DSC_0006.MOV</property>
+  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/Damien 2/DSC_0006.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -998,7 +998,7 @@
   <property name="mlt_type">producer</property>
   <property name="length">214</property>
   <property name="eof">pause</property>
-  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Damien 2/DSC_0013.MOV</property>
+  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/Damien 2/DSC_0013.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -2036,7 +2036,7 @@
   <property name="mlt_type">producer</property>
   <property name="length">724</property>
   <property name="eof">pause</property>
-  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Damien 2/DSC_0009.MOV</property>
+  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/Damien 2/DSC_0009.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">23,976</property>
@@ -3611,7 +3611,7 @@ p, li { white-space: pre-wrap; }
   <kdenlive_producer id="80" analysisdata="" name="Clip diaporama" softness="0" crop="0" in="0" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/anim présentation/anim_01/.all.png" luma_duration="00:00:01:00" duration="721" groupid="3" ttl="1" aspect_ratio="1" out="720" fade="0" groupname="Cartons" type="7" loop="0" frame_size="1080x607"/>
   <kdenlive_producer duration="125" frame_size="1053x745" thumbnail="100" in="0" analysisdata="" file_size="33674" groupid="3" aspect_ratio="1" out="124" groupname="Cartons" file_hash="5aaa65dfcba42927daa190fa363c785d" type="5" id="81" name="titre1.png" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/panneaux/titre1.png"/>
   <kdenlive_producer duration="125" frame_size="1053x745" thumbnail="100" in="0" analysisdata="" file_size="29209" groupid="3" aspect_ratio="1" out="124" groupname="Cartons" file_hash="3c94f9adda89cb27a0154e8c9bccb25a" type="5" id="82" name="titre ep3.png" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/panneaux/titre ep3.png"/>
-  <kdenlive_producer audio_max="1" id="83" pix_fmt="yuvj420p" default_video="0" fps="23,976" analysisdata="" name="DSC_0009.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Damien 2/DSC_0009.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="724" groupid="1" file_hash="a860e154982cd75e5e0eac5c0a1fe303" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" groupname="Coiffure" type="3" frame_size="1920x1080" file_size="74894099">
+  <kdenlive_producer audio_max="1" id="83" pix_fmt="yuvj420p" default_video="0" fps="23,976" analysisdata="" name="DSC_0009.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/Damien 2/DSC_0009.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="724" groupid="1" file_hash="a860e154982cd75e5e0eac5c0a1fe303" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" groupname="Coiffure" type="3" frame_size="1920x1080" file_size="74894099">
    <metaproperty tool="" name="meta.attr.0.stream.creation_time">2017-05-04 19:57:12</metaproperty>
    <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
    <metaproperty tool="" name="meta.attr.1.stream.creation_time">2017-05-04 19:57:12</metaproperty>
@@ -3621,7 +3621,7 @@ p, li { white-space: pre-wrap; }
    <metaproperty tool="" name="meta.attr.major_brand">qt  </metaproperty>
    <metaproperty tool="" name="meta.attr.minor_version">537331968</metaproperty>
   </kdenlive_producer>
-  <kdenlive_producer audio_max="1" id="84" pix_fmt="yuvj420p" default_video="0" fps="23,976" analysisdata="" name="DSC_0006.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Damien 2/DSC_0006.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="1084" groupid="1" file_hash="0fa192dcee401d29003be0f2f86ec5c8" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" groupname="Coiffure" type="3" frame_size="1920x1080" file_size="110473988">
+  <kdenlive_producer audio_max="1" id="84" pix_fmt="yuvj420p" default_video="0" fps="23,976" analysisdata="" name="DSC_0006.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/Damien 2/DSC_0006.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="1084" groupid="1" file_hash="0fa192dcee401d29003be0f2f86ec5c8" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" groupname="Coiffure" type="3" frame_size="1920x1080" file_size="110473988">
    <metaproperty tool="" name="meta.attr.0.stream.creation_time">2017-05-04 19:51:57</metaproperty>
    <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
    <metaproperty tool="" name="meta.attr.1.stream.creation_time">2017-05-04 19:51:57</metaproperty>
@@ -3631,7 +3631,7 @@ p, li { white-space: pre-wrap; }
    <metaproperty tool="" name="meta.attr.major_brand">qt  </metaproperty>
    <metaproperty tool="" name="meta.attr.minor_version">537331968</metaproperty>
   </kdenlive_producer>
-  <kdenlive_producer audio_max="1" id="85" pix_fmt="yuvj420p" default_video="0" fps="23,976" analysisdata="" name="DSC_0013.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Damien 2/DSC_0013.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="214" groupid="1" file_hash="382f0a10a01e2c607368bc8877eb3a5f" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" groupname="Coiffure" type="3" frame_size="1920x1080" file_size="22174359">
+  <kdenlive_producer audio_max="1" id="85" pix_fmt="yuvj420p" default_video="0" fps="23,976" analysisdata="" name="DSC_0013.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/Damien 2/DSC_0013.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="214" groupid="1" file_hash="382f0a10a01e2c607368bc8877eb3a5f" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" groupname="Coiffure" type="3" frame_size="1920x1080" file_size="22174359">
    <metaproperty tool="" name="meta.attr.0.stream.creation_time">2017-05-04 20:03:41</metaproperty>
    <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
    <metaproperty tool="" name="meta.attr.1.stream.creation_time">2017-05-04 20:03:41</metaproperty>
