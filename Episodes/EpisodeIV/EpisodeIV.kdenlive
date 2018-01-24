@@ -5544,7 +5544,7 @@
  <producer id="152" title="Anonymous Submission" out="1394" in="0">
   <property name="length">00:00:55:20</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0069.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0069.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -5587,7 +5587,7 @@
   <property name="kdenlive:file_size">77976437</property>
   <property name="kdenlive:file_hash">5adce0cb49a34eefa7013e3a4c272b8c</property>
   <property name="proxy_out">1337</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0069.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0069.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5641,7 +5641,7 @@
  <producer id="153" title="Anonymous Submission" out="278" in="0">
   <property name="length">00:00:11:04</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0070.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0070.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -5684,7 +5684,7 @@
   <property name="kdenlive:file_size">17049457</property>
   <property name="kdenlive:file_hash">9d06e1e9429e815eca55091a81cb4b19</property>
   <property name="proxy_out">267</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0070.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0070.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5738,7 +5738,7 @@
  <producer id="154" title="Anonymous Submission" out="461" in="0">
   <property name="length">00:00:18:12</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0071.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0071.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -5781,7 +5781,7 @@
   <property name="kdenlive:file_size">26498100</property>
   <property name="kdenlive:file_hash">9fff00ddf91f31c626c1e8f9da753fcc</property>
   <property name="proxy_out">442</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0071.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0071.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5835,7 +5835,7 @@
  <producer id="155" title="Anonymous Submission" out="320" in="0">
   <property name="length">00:00:12:21</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0072.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0072.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -5878,7 +5878,7 @@
   <property name="kdenlive:file_size">18160513</property>
   <property name="kdenlive:file_hash">275597d240a9e8fdca8d167adbcb7d1d</property>
   <property name="proxy_out">307</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0072.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0072.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -5932,7 +5932,7 @@
  <producer id="156" title="Anonymous Submission" out="3071" in="0">
   <property name="length">00:02:02:22</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0073.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0073.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -5975,7 +5975,7 @@
   <property name="kdenlive:file_size">171774073</property>
   <property name="kdenlive:file_hash">2d8074eb4cc58b0cc0882907753e716e</property>
   <property name="proxy_out">2945</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0073.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0073.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6029,7 +6029,7 @@
  <producer id="157" title="Anonymous Submission" out="1148" in="0">
   <property name="length">00:00:45:24</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0074.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0074.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6072,7 +6072,7 @@
   <property name="kdenlive:file_size">64549354</property>
   <property name="kdenlive:file_hash">589c2756b26e95317b5144d480ff16b0</property>
   <property name="proxy_out">1101</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0074.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0074.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6126,7 +6126,7 @@
  <producer id="158" title="Anonymous Submission" out="632" in="0">
   <property name="length">00:00:25:08</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0075.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0075.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6169,7 +6169,7 @@
   <property name="kdenlive:file_size">35917274</property>
   <property name="kdenlive:file_hash">d7a16fd4fb8512202bced58359303b8d</property>
   <property name="proxy_out">606</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0075.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0075.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6223,7 +6223,7 @@
  <producer id="159" title="Anonymous Submission" out="644" in="0">
   <property name="length">00:00:25:20</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0076.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0076.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6266,7 +6266,7 @@
   <property name="kdenlive:file_size">36159810</property>
   <property name="kdenlive:file_hash">117d702f1cabfbcc3528c00e81f67e71</property>
   <property name="proxy_out">618</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0076.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0076.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6320,7 +6320,7 @@
  <producer id="160" title="Anonymous Submission" out="125" in="0">
   <property name="length">00:00:05:01</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0077.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0077.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6363,7 +6363,7 @@
   <property name="kdenlive:file_size">7449016</property>
   <property name="kdenlive:file_hash">61a3b5c01dd7261fe865d8ddf4192341</property>
   <property name="proxy_out">120</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0077.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0077.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6417,7 +6417,7 @@
  <producer id="161" title="Anonymous Submission" out="1934" in="0">
   <property name="length">00:01:17:10</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0078.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0078.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6460,7 +6460,7 @@
   <property name="kdenlive:file_size">107294418</property>
   <property name="kdenlive:file_hash">afa52d57d9e357d526b1860558e9fab3</property>
   <property name="proxy_out">1855</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0078.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0078.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6514,7 +6514,7 @@
  <producer id="162" title="Anonymous Submission" out="278" in="0">
   <property name="length">00:00:11:04</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0079.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0079.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6557,7 +6557,7 @@
   <property name="kdenlive:file_size">16651792</property>
   <property name="kdenlive:file_hash">c320dcee981db6d9460a4cf4ea8da5ae</property>
   <property name="proxy_out">267</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0079.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0079.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6611,7 +6611,7 @@
  <producer id="163" title="Anonymous Submission" out="512" in="0">
   <property name="length">00:00:20:13</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0080.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0080.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6654,7 +6654,7 @@
   <property name="kdenlive:file_size">30043170</property>
   <property name="kdenlive:file_hash">8665b2bd99946a851b3615f5fa16b20c</property>
   <property name="proxy_out">491</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0080.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0080.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6708,7 +6708,7 @@
  <producer id="164" title="Anonymous Submission" out="602" in="0">
   <property name="length">00:00:24:03</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0082.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0082.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6751,7 +6751,7 @@
   <property name="kdenlive:file_size">34704377</property>
   <property name="kdenlive:file_hash">dfca73d8d0d0bc9727db2ce402e29405</property>
   <property name="proxy_out">577</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0082.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0082.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6805,7 +6805,7 @@
  <producer id="165" title="Anonymous Submission" out="2354" in="0">
   <property name="length">00:01:34:05</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0083.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0083.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6848,7 +6848,7 @@
   <property name="kdenlive:file_size">127876475</property>
   <property name="kdenlive:file_hash">c352847c34c2153552b0de32a151e50f</property>
   <property name="proxy_out">2258</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0083.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0083.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6902,7 +6902,7 @@
  <producer id="166" title="Anonymous Submission" out="914" in="0">
   <property name="length">00:00:36:15</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0084.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0084.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -6945,7 +6945,7 @@
   <property name="kdenlive:file_size">50538658</property>
   <property name="kdenlive:file_hash">85a7d0f0b0b6d3157fe261d7fdd0bf58</property>
   <property name="proxy_out">877</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0084.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0084.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -6999,7 +6999,7 @@
  <producer id="167" title="Anonymous Submission" out="587" in="0">
   <property name="length">00:00:23:13</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0086.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0086.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -7042,7 +7042,7 @@
   <property name="kdenlive:file_size">33575274</property>
   <property name="kdenlive:file_hash">42fb7b507bea3cabbcecd524976483a7</property>
   <property name="proxy_out">563</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0086.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0086.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7096,7 +7096,7 @@
  <producer id="168" title="Anonymous Submission" out="245" in="0">
   <property name="length">00:00:09:21</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0087.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0087.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -7139,7 +7139,7 @@
   <property name="kdenlive:file_size">13700246</property>
   <property name="kdenlive:file_hash">43c2e3a33268933e7a66b9d2ad4822f9</property>
   <property name="proxy_out">235</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0087.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0087.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7193,7 +7193,7 @@
  <producer id="169" title="Anonymous Submission" out="152" in="0">
   <property name="length">00:00:06:03</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0088.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0088.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -7236,7 +7236,7 @@
   <property name="kdenlive:file_size">8556284</property>
   <property name="kdenlive:file_hash">71aa37d25015f73640fe05aedfdb7418</property>
   <property name="proxy_out">146</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0088.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0088.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7290,7 +7290,7 @@
  <producer id="170" title="Anonymous Submission" out="296" in="0">
   <property name="length">00:00:11:22</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0089.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0089.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -7333,7 +7333,7 @@
   <property name="kdenlive:file_size">16727353</property>
   <property name="kdenlive:file_hash">835fd5d29bd93084060d5cc8699a4349</property>
   <property name="proxy_out">284</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0089.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0089.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7387,7 +7387,7 @@
  <producer id="171" title="Anonymous Submission" out="1997" in="0">
   <property name="length">00:01:19:23</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0090.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0090.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -7430,7 +7430,7 @@
   <property name="kdenlive:file_size">105270789</property>
   <property name="kdenlive:file_hash">8582a073233f68dad4b2ef1b0005fa87</property>
   <property name="proxy_out">1915</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0090.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0090.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7484,7 +7484,7 @@
  <producer id="172" title="Anonymous Submission" out="1709" in="0">
   <property name="length">00:01:08:10</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0091.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0091.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -7527,7 +7527,7 @@
   <property name="kdenlive:file_size">90118839</property>
   <property name="kdenlive:file_hash">f36a77e991a3743c3cee01190371ea5b</property>
   <property name="proxy_out">1639</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0091.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0091.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10839,7 +10839,7 @@
  <producer id="172_video" title="Anonymous Submission" out="1709" in="0">
   <property name="length">00:01:08:10</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0091.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0091.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -10850,7 +10850,7 @@
   <property name="kdenlive:file_size">90118839</property>
   <property name="kdenlive:file_hash">f36a77e991a3743c3cee01190371ea5b</property>
   <property name="proxy_out">1639</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0091.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0091.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11678,7 +11678,7 @@
  <producer id="152_video" title="Anonymous Submission" out="1394" in="0">
   <property name="length">00:00:55:20</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0069.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0069.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -11689,7 +11689,7 @@
   <property name="kdenlive:file_size">77976437</property>
   <property name="kdenlive:file_hash">5adce0cb49a34eefa7013e3a4c272b8c</property>
   <property name="proxy_out">1337</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0069.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0069.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11776,7 +11776,7 @@
  <producer id="154_video" title="Anonymous Submission" out="461" in="0">
   <property name="length">00:00:18:12</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0071.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0071.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -11787,7 +11787,7 @@
   <property name="kdenlive:file_size">26498100</property>
   <property name="kdenlive:file_hash">9fff00ddf91f31c626c1e8f9da753fcc</property>
   <property name="proxy_out">442</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0071.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0071.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11874,7 +11874,7 @@
  <producer id="159_video" title="Anonymous Submission" out="644" in="0">
   <property name="length">00:00:25:20</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0076.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0076.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -11885,7 +11885,7 @@
   <property name="kdenlive:file_size">36159810</property>
   <property name="kdenlive:file_hash">117d702f1cabfbcc3528c00e81f67e71</property>
   <property name="proxy_out">618</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0076.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0076.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11972,7 +11972,7 @@
  <producer id="163_video" title="Anonymous Submission" out="512" in="0">
   <property name="length">00:00:20:13</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0080.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0080.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -11983,7 +11983,7 @@
   <property name="kdenlive:file_size">30043170</property>
   <property name="kdenlive:file_hash">8665b2bd99946a851b3615f5fa16b20c</property>
   <property name="proxy_out">491</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0080.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0080.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12768,7 +12768,7 @@
  <producer id="162_video" title="Anonymous Submission" out="278" in="0">
   <property name="length">00:00:11:04</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0079.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0079.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -12779,7 +12779,7 @@
   <property name="kdenlive:file_size">16651792</property>
   <property name="kdenlive:file_hash">c320dcee981db6d9460a4cf4ea8da5ae</property>
   <property name="proxy_out">267</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0079.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0079.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12866,7 +12866,7 @@
  <producer id="156_video" title="Anonymous Submission" out="3071" in="0">
   <property name="length">00:02:02:22</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0073.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0073.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -12877,7 +12877,7 @@
   <property name="kdenlive:file_size">171774073</property>
   <property name="kdenlive:file_hash">2d8074eb4cc58b0cc0882907753e716e</property>
   <property name="proxy_out">2945</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0073.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0073.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12964,7 +12964,7 @@
  <producer id="161_video" title="Anonymous Submission" out="1934" in="0">
   <property name="length">00:01:17:10</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0078.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0078.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -12975,7 +12975,7 @@
   <property name="kdenlive:file_size">107294418</property>
   <property name="kdenlive:file_hash">afa52d57d9e357d526b1860558e9fab3</property>
   <property name="proxy_out">1855</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0078.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0078.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13062,7 +13062,7 @@
  <producer id="157_video" title="Anonymous Submission" out="1148" in="0">
   <property name="length">00:00:45:24</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0074.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0074.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -13073,7 +13073,7 @@
   <property name="kdenlive:file_size">64549354</property>
   <property name="kdenlive:file_hash">589c2756b26e95317b5144d480ff16b0</property>
   <property name="proxy_out">1101</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0074.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0074.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13160,7 +13160,7 @@
  <producer id="158_video" title="Anonymous Submission" out="632" in="0">
   <property name="length">00:00:25:08</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0075.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0075.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -13171,7 +13171,7 @@
   <property name="kdenlive:file_size">35917274</property>
   <property name="kdenlive:file_hash">d7a16fd4fb8512202bced58359303b8d</property>
   <property name="proxy_out">606</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0075.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0075.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13258,7 +13258,7 @@
  <producer id="155_video" title="Anonymous Submission" out="320" in="0">
   <property name="length">00:00:12:21</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0072.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0072.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -13269,7 +13269,7 @@
   <property name="kdenlive:file_size">18160513</property>
   <property name="kdenlive:file_hash">275597d240a9e8fdca8d167adbcb7d1d</property>
   <property name="proxy_out">307</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0072.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0072.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13926,7 +13926,7 @@
  <producer id="165_video" title="Anonymous Submission" out="2354" in="0">
   <property name="length">00:01:34:05</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0083.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0083.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -13937,7 +13937,7 @@
   <property name="kdenlive:file_size">127876475</property>
   <property name="kdenlive:file_hash">c352847c34c2153552b0de32a151e50f</property>
   <property name="proxy_out">2258</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0083.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0083.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14024,7 +14024,7 @@
  <producer id="166_video" title="Anonymous Submission" out="914" in="0">
   <property name="length">00:00:36:15</property>
   <property name="eof">pause</property>
-  <property name="resource">entree-sortie-voisins/DSC_0084.MOV</property>
+  <property name="resource">Sources/Videos/entree-sortie-voisins/DSC_0084.MOV</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -14035,7 +14035,7 @@
   <property name="kdenlive:file_size">50538658</property>
   <property name="kdenlive:file_hash">85a7d0f0b0b6d3157fe261d7fdd0bf58</property>
   <property name="proxy_out">877</property>
-  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/entree-sortie-voisins/DSC_0084.MOV</property>
+  <property name="kdenlive:originalurl">/media/nicolas/EXT4-PERSO/Film/EpisodeIV/Sources/Videos/entree-sortie-voisins/DSC_0084.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
