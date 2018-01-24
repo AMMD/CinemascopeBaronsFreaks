@@ -18,7 +18,7 @@
   <property name="mlt_type">producer</property>
   <property name="length">374</property>
   <property name="eof">pause</property>
-  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/stevo-jobs/DSC_0043.MOV</property>
+  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/stevo-jobs/DSC_0043.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -83,7 +83,7 @@
   <property name="mlt_type">producer</property>
   <property name="length">374</property>
   <property name="eof">pause</property>
-  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/stevo-jobs/DSC_0049.MOV</property>
+  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/stevo-jobs/DSC_0049.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -155,7 +155,7 @@
   <property name="mlt_type">producer</property>
   <property name="length">983</property>
   <property name="eof">pause</property>
-  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/stevo-jobs/DSC_0044.MOV</property>
+  <property name="resource">Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/stevo-jobs/DSC_0044.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -317,7 +317,7 @@ p, li { white-space: pre-wrap; }
    <trackinfo blind="0" mute="0" locked="0" trackname="Video 2"/>
    <trackinfo blind="0" mute="0" locked="0" trackname="Video 1"/>
   </tracksinfo>
-  <kdenlive_producer audio_max="1" id="3" pix_fmt="yuvj420p" default_video="0" fps="25" analysisdata="" name="DSC_0043.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/stevo-jobs/DSC_0043.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="374" file_hash="16813ef41f9a7918694ffe5011c3432d" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="21424273">
+  <kdenlive_producer audio_max="1" id="3" pix_fmt="yuvj420p" default_video="0" fps="25" analysisdata="" name="DSC_0043.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/stevo-jobs/DSC_0043.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="374" file_hash="16813ef41f9a7918694ffe5011c3432d" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="21424273">
    <metaproperty tool="" name="meta.attr.0.stream.creation_time">2016-11-24 15:54:33</metaproperty>
    <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
    <metaproperty tool="" name="meta.attr.1.stream.creation_time">2016-11-24 15:54:33</metaproperty>
@@ -327,7 +327,7 @@ p, li { white-space: pre-wrap; }
    <metaproperty tool="" name="meta.attr.major_brand">qt  </metaproperty>
    <metaproperty tool="" name="meta.attr.minor_version">537331968</metaproperty>
   </kdenlive_producer>
-  <kdenlive_producer audio_max="1" id="4" pix_fmt="yuvj420p" default_video="0" fps="25" analysisdata="" name="DSC_0044.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/stevo-jobs/DSC_0044.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="983" file_hash="8e66d6f698bda9d415b5180cca699422" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="54043112">
+  <kdenlive_producer audio_max="1" id="4" pix_fmt="yuvj420p" default_video="0" fps="25" analysisdata="" name="DSC_0044.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/stevo-jobs/DSC_0044.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="983" file_hash="8e66d6f698bda9d415b5180cca699422" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="54043112">
    <metaproperty tool="" name="meta.attr.0.stream.creation_time">2016-11-24 15:55:48</metaproperty>
    <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
    <metaproperty tool="" name="meta.attr.1.stream.creation_time">2016-11-24 15:55:48</metaproperty>
@@ -337,7 +337,7 @@ p, li { white-space: pre-wrap; }
    <metaproperty tool="" name="meta.attr.major_brand">qt  </metaproperty>
    <metaproperty tool="" name="meta.attr.minor_version">537331968</metaproperty>
   </kdenlive_producer>
-  <kdenlive_producer audio_max="1" id="5" pix_fmt="yuvj420p" default_video="0" fps="25" analysisdata="" name="DSC_0049.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/stevo-jobs/DSC_0049.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="374" file_hash="57efbe3f99080e6701fb2af75cf11a21" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="20143831">
+  <kdenlive_producer audio_max="1" id="5" pix_fmt="yuvj420p" default_video="0" fps="25" analysisdata="" name="DSC_0049.MOV" videocodecid="h264" colorspace="601" videocodec="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" resource="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeIII/Sources/Videos/stevo-jobs/DSC_0049.MOV" default_audio="1" audiocodec="PCM signed 16-bit little-endian" duration="374" file_hash="57efbe3f99080e6701fb2af75cf11a21" aspect_ratio="1" channels="1" frequency="24000" video_max="0" progressive="1" type="3" frame_size="1280x720" file_size="20143831">
    <metaproperty tool="" name="meta.attr.0.stream.creation_time">2016-11-24 16:01:17</metaproperty>
    <metaproperty tool="" name="meta.attr.0.stream.language">eng</metaproperty>
    <metaproperty tool="" name="meta.attr.1.stream.creation_time">2016-11-24 16:01:17</metaproperty>

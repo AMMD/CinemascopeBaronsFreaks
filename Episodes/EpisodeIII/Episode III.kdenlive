@@ -208,7 +208,7 @@
  <producer id="58" title="Anonymous Submission" out="304" in="0">
   <property name="length">00:00:12:05</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0037.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0037.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -263,7 +263,7 @@
  <producer id="45" title="Anonymous Submission" out="637" in="0">
   <property name="length">00:00:25:13</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0014.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0014.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -319,7 +319,7 @@
  <producer id="42" title="Anonymous Submission" out="10810" in="0">
   <property name="length">00:07:12:11</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0010.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0010.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -374,7 +374,7 @@
  <producer id="46" title="Anonymous Submission" out="334" in="0">
   <property name="length">00:00:13:10</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0016.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0016.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -429,7 +429,7 @@
  <producer id="47" title="Anonymous Submission" out="205" in="0">
   <property name="length">00:00:08:06</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0028.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0028.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -484,7 +484,7 @@
  <producer id="49" title="Anonymous Submission" out="2839" in="0">
   <property name="length">00:01:53:15</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0022.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0022.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -577,7 +577,7 @@
  <producer id="50" title="Anonymous Submission" out="1264" in="0">
   <property name="length">00:00:50:15</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0025.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0025.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -632,7 +632,7 @@
  <producer id="51" title="Anonymous Submission" out="370" in="0">
   <property name="length">00:00:14:21</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0038.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0038.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -706,7 +706,7 @@
  <producer id="54" title="Anonymous Submission" out="256" in="0">
   <property name="length">00:00:10:07</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0036.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0036.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -780,7 +780,7 @@
  <producer id="55" title="Anonymous Submission" out="2482" in="0">
   <property name="length">00:01:39:08</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0030.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0030.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -2815,7 +2815,7 @@
  <producer id="43" title="Anonymous Submission" out="648" in="0">
   <property name="length">00:00:25:24</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/hall.mp4</property>
+  <property name="resource">Sources/Videos/stevo-jobs/hall.mp4</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -2884,7 +2884,7 @@
  <producer id="44" title="Anonymous Submission" out="690" in="0">
   <property name="length">00:00:27:16</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/entree.mp4</property>
+  <property name="resource">Sources/Videos/stevo-jobs/entree.mp4</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -2953,7 +2953,7 @@
  <producer id="48" title="Anonymous Submission" out="5837" in="0">
   <property name="length">00:03:53:13</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0020.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0020.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -3022,7 +3022,7 @@
  <producer id="52" title="Anonymous Submission" out="860" in="0">
   <property name="length">00:00:34:11</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0029.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0029.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -3344,7 +3344,7 @@
  <producer id="89" title="Anonymous Submission" out="860" in="0">
   <property name="length">00:00:34:11</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0029.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0029.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -3567,7 +3567,7 @@
  <producer id="53" title="Anonymous Submission" out="2155" in="0">
   <property name="length">00:01:26:06</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0017.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0017.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -4165,7 +4165,7 @@
  <producer id="slowmotion:43:1,1:1" out="589" in="0">
   <property name="length">590</property>
   <property name="eof">pause</property>
-  <property name="resource">1,1:stevo-jobs/hall.mp4</property>
+  <property name="resource">1,1:Sources/Videos/stevo-jobs/hall.mp4</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4201,7 +4201,7 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,1</property>
-  <property name="warp_resource">stevo-jobs/hall.mp4</property>
+  <property name="warp_resource">Sources/Videos/stevo-jobs/hall.mp4</property>
   <property name="mlt_service">timewarp</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -4215,7 +4215,7 @@
  <producer id="45_playlist4" out="637" in="0">
   <property name="length">638</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0014.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0014.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4266,7 +4266,7 @@
  <producer id="slowmotion:44:1,2:1" out="574" in="0">
   <property name="length">575</property>
   <property name="eof">pause</property>
-  <property name="resource">1,2:stevo-jobs/entree.mp4</property>
+  <property name="resource">1,2:Sources/Videos/stevo-jobs/entree.mp4</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4302,7 +4302,7 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,2</property>
-  <property name="warp_resource">stevo-jobs/entree.mp4</property>
+  <property name="warp_resource">Sources/Videos/stevo-jobs/entree.mp4</property>
   <property name="mlt_service">timewarp</property>
   <property name="strobe">1</property>
   <property name="meta.media.frame_rate_num">25</property>
@@ -4317,7 +4317,7 @@
  <producer id="42_playlist4" title="Anonymous Submission" out="10810" in="0">
   <property name="length">10811</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0010.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0010.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4369,7 +4369,7 @@
  <producer id="46_playlist4" out="334" in="0">
   <property name="length">335</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0016.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0016.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4420,7 +4420,7 @@
  <producer id="47_playlist4" out="205" in="0">
   <property name="length">206</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0028.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0028.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4471,7 +4471,7 @@
  <producer id="slowmotion:42:1,15:1" out="9399" in="0">
   <property name="length">9400</property>
   <property name="eof">pause</property>
-  <property name="resource">1,15:stevo-jobs/DSC_0010.MOV</property>
+  <property name="resource">1,15:Sources/Videos/stevo-jobs/DSC_0010.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4510,7 +4510,7 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,15</property>
-  <property name="warp_resource">stevo-jobs/DSC_0010.MOV</property>
+  <property name="warp_resource">Sources/Videos/stevo-jobs/DSC_0010.MOV</property>
   <property name="mlt_service">timewarp</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -4524,7 +4524,7 @@
  <producer id="49_playlist4" out="2839" in="0">
   <property name="length">2840</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0022.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0022.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4575,7 +4575,7 @@
  <producer id="50_playlist4" out="1264" in="0">
   <property name="length">1265</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0025.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0025.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4626,7 +4626,7 @@
  <producer id="slowmotion:48:1,1:1" out="5308" in="0">
   <property name="length">5309</property>
   <property name="eof">pause</property>
-  <property name="resource">1,1:stevo-jobs/DSC_0020.MOV</property>
+  <property name="resource">1,1:Sources/Videos/stevo-jobs/DSC_0020.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4665,7 +4665,7 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,1</property>
-  <property name="warp_resource">stevo-jobs/DSC_0020.MOV</property>
+  <property name="warp_resource">Sources/Videos/stevo-jobs/DSC_0020.MOV</property>
   <property name="mlt_service">timewarp</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -4679,7 +4679,7 @@
  <producer id="51_playlist4" out="370" in="0">
   <property name="length">371</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0038.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0038.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4729,7 +4729,7 @@
  <producer id="53_playlist4" title="Anonymous Submission" out="2155" in="0">
   <property name="length">00:01:26:06</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0017.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0017.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -4787,7 +4787,7 @@
  <producer id="slowmotion:42:1,1:1" out="9827" in="0">
   <property name="length">9828</property>
   <property name="eof">pause</property>
-  <property name="resource">1,1:stevo-jobs/DSC_0010.MOV</property>
+  <property name="resource">1,1:Sources/Videos/stevo-jobs/DSC_0010.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4826,7 +4826,7 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,1</property>
-  <property name="warp_resource">stevo-jobs/DSC_0010.MOV</property>
+  <property name="warp_resource">Sources/Videos/stevo-jobs/DSC_0010.MOV</property>
   <property name="mlt_service">timewarp</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -4840,7 +4840,7 @@
  <producer id="slowmotion:53:1,3:1:0" out="1656" in="0">
   <property name="length">1657</property>
   <property name="eof">pause</property>
-  <property name="resource">1,3:stevo-jobs/DSC_0017.MOV</property>
+  <property name="resource">1,3:Sources/Videos/stevo-jobs/DSC_0017.MOV</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -4879,7 +4879,7 @@
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
   <property name="warp_speed">1,3</property>
-  <property name="warp_resource">stevo-jobs/DSC_0017.MOV</property>
+  <property name="warp_resource">Sources/Videos/stevo-jobs/DSC_0017.MOV</property>
   <property name="mlt_service">timewarp</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -4893,7 +4893,7 @@
  <producer id="54_playlist4" out="256" in="0">
   <property name="length">257</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0036.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0036.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4944,7 +4944,7 @@
  <producer id="55_playlist4" out="2482" in="0">
   <property name="length">2483</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0030.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0030.MOV</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -4995,7 +4995,7 @@
  <producer id="89_playlist4" title="Anonymous Submission" out="860" in="0">
   <property name="length">00:00:34:11</property>
   <property name="eof">pause</property>
-  <property name="resource">stevo-jobs/DSC_0029.MOV</property>
+  <property name="resource">Sources/Videos/stevo-jobs/DSC_0029.MOV</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
