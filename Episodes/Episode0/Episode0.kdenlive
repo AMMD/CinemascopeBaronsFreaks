@@ -1636,7 +1636,7 @@ Gurke     &lt;/content>
  <producer id="31" out="155" in="0">
   <property name="length">156</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Saladin.png</property>
+  <property name="resource">Sources/Images/Saladin.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1770,6 +1770,8 @@ Gurke     &lt;/content>
   <property name="kdenlive:duration">125</property>
   <property name="kdenlive:file_size">448071</property>
   <property name="kdenlive:file_hash">36bcca1129093ca535128af5c5bfd7bf</property>
+  <property name="kdenlive:zone_in">0</property>
+  <property name="kdenlive:zone_out">95</property>
  </producer>
  <producer id="38" title="Anonymous Submission" out="151" in="0">
   <property name="length">152</property>
@@ -1787,6 +1789,8 @@ Gurke     &lt;/content>
   <property name="kdenlive:file_size">453563</property>
   <property name="kdenlive:file_hash">df23b54a90b3e6a25ae15795ce15f62c</property>
   <property name="global_feed">1</property>
+  <property name="kdenlive:zone_in">0</property>
+  <property name="kdenlive:zone_out">104</property>
  </producer>
  <producer id="39" out="145" in="0">
   <property name="length">146</property>
@@ -1830,7 +1834,7 @@ Gurke     &lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">1</property>
   <property name="kdenlive:docproperties.generateproxy">1</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">1704</property>
+  <property name="kdenlive:docproperties.position">3534</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -1842,18 +1846,18 @@ Gurke     &lt;/content>
   <property name="kdenlive:docproperties.version">0.95</property>
   <property name="kdenlive:docproperties.verticalzoom">0</property>
   <property name="kdenlive:docproperties.videotargettrack">6</property>
-  <property name="kdenlive:docproperties.zonein">3811</property>
-  <property name="kdenlive:docproperties.zoneout">3811</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zonein">2370</property>
+  <property name="kdenlive:docproperties.zoneout">2370</property>
+  <property name="kdenlive:docproperties.zoom">3</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:docproperties.renderaudioquality">192</property>
-  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.rendercategory">Images sequence</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderprofile">MP4 - the dominating format (H264/AAC)</property>
+  <property name="kdenlive:docproperties.renderprofile">PNG</property>
   <property name="kdenlive:docproperties.renderquality">15</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
   <property name="kdenlive:docproperties.renderrescale">0</property>
@@ -1865,8 +1869,8 @@ Gurke     &lt;/content>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/RENDER_GLOBAL/render finaux/2017-12-07_Episode0.mp4</property>
-  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="kdenlive:docproperties.renderurl">Sources/Images/Doah.png</property>
+  <property name="kdenlive:docproperties.renderzone">1</property>
   <property name="xml_retain">1</property>
   <entry out="1610" producer="1" in="0"/>
   <entry out="287" producer="3" in="0"/>
@@ -2933,7 +2937,7 @@ Gurke     &lt;/content>
   <track producer="playlist3" hide="audio"/>
   <track producer="playlist8" hide="audio"/>
   <track producer="playlist4" hide="audio"/>
-  <track producer="playlist5" hide="audio"/>
+  <track producer="playlist5" hide="both"/>
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
