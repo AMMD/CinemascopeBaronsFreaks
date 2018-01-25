@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" version="6.4.1" root="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/Episode0" producer="main bin" LC_NUMERIC="fr_FR.UTF-8">
+<mlt title="Anonymous Submission" version="6.4.1" root="/home/nicolas/Documents/Projets Musique/Barons Freaks/CinemascopeBaronsFreaks/Episodes/Episode0" producer="main bin" LC_NUMERIC="fr_FR.UTF-8">
  <profile width="1280" frame_rate_den="1" height="720" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 720p 25 fps" progressive="1" sample_aspect_num="1"/>
  <producer id="1" title="Anonymous Submission" out="1610" in="0">
   <property name="length">00:01:04:11</property>
@@ -56,7 +56,7 @@
   <property name="kdenlive:file_hash">a0d06bfd39fe57779714e41420fc6341</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a0d06bfd39fe57779714e41420fc6341.mpg</property>
   <property name="proxy_out">1610</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0001.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0001.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -154,7 +154,7 @@
   <property name="kdenlive:file_hash">7ed49acb45c72936a84f2b85e5c1edd7</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7ed49acb45c72936a84f2b85e5c1edd7.mpg</property>
   <property name="proxy_out">287</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0003.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0003.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -252,7 +252,7 @@
   <property name="kdenlive:file_hash">00660f92d81a8d2c256a2ce26b651320</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/00660f92d81a8d2c256a2ce26b651320.mpg</property>
   <property name="proxy_out">240</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0004.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0004.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -350,7 +350,7 @@
   <property name="kdenlive:file_hash">78f147e0367e60162d435f03f16032bb</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/78f147e0367e60162d435f03f16032bb.mpg</property>
   <property name="proxy_out">312</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0005.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0005.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -448,7 +448,7 @@
   <property name="kdenlive:file_hash">60cee46a368e26eecb8fea63200e09f2</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/60cee46a368e26eecb8fea63200e09f2.mpg</property>
   <property name="proxy_out">318</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0006.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0006.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -546,7 +546,7 @@
   <property name="kdenlive:file_hash">e550c0c33992e68ebd3960f50ffae9f8</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e550c0c33992e68ebd3960f50ffae9f8.mpg</property>
   <property name="proxy_out">293</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0007.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0007.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -644,7 +644,7 @@
   <property name="kdenlive:file_hash">a245be023ca17aea1b26054049e25874</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a245be023ca17aea1b26054049e25874.mpg</property>
   <property name="proxy_out">568</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0008.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0008.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -742,7 +742,7 @@
   <property name="kdenlive:file_hash">4d82b22d7c1e0e4e34174633ebfc5baa</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/4d82b22d7c1e0e4e34174633ebfc5baa.mpg</property>
   <property name="proxy_out">1244</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0009.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0009.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -840,7 +840,7 @@
   <property name="kdenlive:file_hash">069794c04bda0e1337a8f91ef2b76974</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/069794c04bda0e1337a8f91ef2b76974.mpg</property>
   <property name="proxy_out">4691</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0002.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0002.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -938,7 +938,7 @@
   <property name="kdenlive:file_hash">71be410629953665a123cc70760d5bbc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/71be410629953665a123cc70760d5bbc.mpg</property>
   <property name="proxy_out">806</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0010.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0010.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1036,7 +1036,7 @@
   <property name="kdenlive:file_hash">540a680f320cdbd8d08f65bcc17230d8</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/540a680f320cdbd8d08f65bcc17230d8.mpg</property>
   <property name="proxy_out">62</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0012.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0012.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1134,7 +1134,7 @@
   <property name="kdenlive:file_hash">672573dcc6242a5d3dd5170bdba59ad4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/672573dcc6242a5d3dd5170bdba59ad4.mpg</property>
   <property name="proxy_out">2445</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0011.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0011.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1232,7 +1232,7 @@
   <property name="kdenlive:file_hash">a2f545a447a425b7249099dbdba5b338</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/a2f545a447a425b7249099dbdba5b338.mpg</property>
   <property name="proxy_out">306</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0014.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0014.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1330,7 +1330,7 @@
   <property name="kdenlive:file_hash">97a026df2ce134763c9b55f0946e5c27</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/97a026df2ce134763c9b55f0946e5c27.mpg</property>
   <property name="proxy_out">2145</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0013.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0013.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1428,7 +1428,7 @@
   <property name="kdenlive:file_hash">ee99dbdd61bd873f16c493ecc7ef955d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ee99dbdd61bd873f16c493ecc7ef955d.mpg</property>
   <property name="proxy_out">600</property>
-  <property name="kdenlive:originalurl">Sources/DSC_0022.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/DSC_0022.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1474,7 +1474,7 @@
  <producer id="23" out="4692" in="0">
   <property name="length">4693</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/Crop4tiers2.png</property>
+  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/CinemascopeBaronsFreaks/Commun/Images/Crop4tiers2.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1523,7 +1523,7 @@ Gurke     &lt;/content>
  <producer id="25" out="233" in="0">
   <property name="length">234</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/découpe_jumeau02.png</property>
+  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/CinemascopeBaronsFreaks/Commun/Images/découpe_jumeau02.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1619,7 +1619,7 @@ Gurke     &lt;/content>
  <producer id="30" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/PanneauVierge.png</property>
+  <property name="resource">Sources/Panneaux/PanneauVierge.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1652,7 +1652,7 @@ Gurke     &lt;/content>
  <producer id="28" title="Anonymous Submission" out="198" in="0">
   <property name="length">199</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/BaronRaspoutineEtTurbine.png</property>
+  <property name="resource">Sources/Panneaux/BaronRaspoutineEtTurbine.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1670,7 +1670,7 @@ Gurke     &lt;/content>
  <producer id="33" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/BaronSaladin.png</property>
+  <property name="resource">Sources/Panneaux/BaronSaladin.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1688,7 +1688,7 @@ Gurke     &lt;/content>
  <producer id="34" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/PanneauViergeSaladin.png</property>
+  <property name="resource">Sources/Panneaux/PanneauViergeSaladin.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1705,7 +1705,7 @@ Gurke     &lt;/content>
  <producer id="32" title="Anonymous Submission" out="247" in="0">
   <property name="length">248</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/BaronDoah.png</property>
+  <property name="resource">Sources/Panneaux/BaronDoah.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1723,7 +1723,7 @@ Gurke     &lt;/content>
  <producer id="35" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/PanneauViergeDoah.png</property>
+  <property name="resource">Sources/Panneaux/PanneauViergeDoah.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1740,7 +1740,7 @@ Gurke     &lt;/content>
  <producer id="36" title="Anonymous Submission" out="794" in="0">
   <property name="length">795</property>
   <property name="eof">pause</property>
-  <property name="resource">Sources/BaronsFreaks.png</property>
+  <property name="resource">Sources/Panneaux/BaronsFreaks.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1758,7 +1758,7 @@ Gurke     &lt;/content>
  <producer id="37" out="151" in="0">
   <property name="length">152</property>
   <property name="eof">pause</property>
-  <property name="resource">Doah.png</property>
+  <property name="resource">Sources/Images/Doah.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1774,7 +1774,7 @@ Gurke     &lt;/content>
  <producer id="38" title="Anonymous Submission" out="151" in="0">
   <property name="length">152</property>
   <property name="eof">pause</property>
-  <property name="resource">Raspoutine.png</property>
+  <property name="resource">Sources/Images/Raspoutine.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1791,7 +1791,7 @@ Gurke     &lt;/content>
  <producer id="39" out="145" in="0">
   <property name="length">146</property>
   <property name="eof">pause</property>
-  <property name="resource">grande ville.png</property>
+  <property name="resource">Sources/Images/grande ville.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1807,7 +1807,7 @@ Gurke     &lt;/content>
  <producer id="40" out="145" in="0">
   <property name="length">146</property>
   <property name="eof">pause</property>
-  <property name="resource">grande ville panneau.png</property>
+  <property name="resource">Sources/Images/grande ville panneau.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1830,7 +1830,7 @@ Gurke     &lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">1</property>
   <property name="kdenlive:docproperties.generateproxy">1</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">3560</property>
+  <property name="kdenlive:docproperties.position">1704</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -2933,7 +2933,7 @@ Gurke     &lt;/content>
   <track producer="playlist3" hide="audio"/>
   <track producer="playlist8" hide="audio"/>
   <track producer="playlist4" hide="audio"/>
-  <track producer="playlist5" hide="both"/>
+  <track producer="playlist5" hide="audio"/>
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
