@@ -11720,7 +11720,7 @@
   <property name="kdenlive:file_hash">ad004011e8af6d69334dc70d88df6117</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ad004011e8af6d69334dc70d88df6117.mpg</property>
   <property name="proxy_out">485</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0156.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0156.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11818,7 +11818,7 @@
   <property name="kdenlive:file_hash">3c8335135b4b2a536cf2c3047a3e7fc4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3c8335135b4b2a536cf2c3047a3e7fc4.mpg</property>
   <property name="proxy_out">239</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0157.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0157.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11916,7 +11916,7 @@
   <property name="kdenlive:file_hash">5c596b09be4fa82cd0dc2f9c0ba14066</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5c596b09be4fa82cd0dc2f9c0ba14066.mpg</property>
   <property name="proxy_out">875</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0155.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0155.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12014,7 +12014,7 @@
   <property name="kdenlive:file_hash">e6f9608311072a1ca3710f218775e09f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e6f9608311072a1ca3710f218775e09f.mpg</property>
   <property name="proxy_out">83</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0160.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0160.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12112,7 +12112,7 @@
   <property name="kdenlive:file_hash">3b7f8020be25e9cef6645b7165cccd82</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/3b7f8020be25e9cef6645b7165cccd82.mpg</property>
   <property name="proxy_out">284</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0161.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0161.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12210,7 +12210,7 @@
   <property name="kdenlive:file_hash">eaf6840b256afa72d58f44a72bba6eb5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/eaf6840b256afa72d58f44a72bba6eb5.mpg</property>
   <property name="proxy_out">581</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0159.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0159.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12308,7 +12308,7 @@
   <property name="kdenlive:file_hash">2d046112abb67f802366100b5dd48532</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2d046112abb67f802366100b5dd48532.mpg</property>
   <property name="proxy_out">233</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0163.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0163.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12406,7 +12406,7 @@
   <property name="kdenlive:file_hash">169ac3012c6cb8c51cb3fbba079728e4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/169ac3012c6cb8c51cb3fbba079728e4.mpg</property>
   <property name="proxy_out">452</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0162.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0162.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12504,7 +12504,7 @@
   <property name="kdenlive:file_hash">15fcdb04378ddfb3e90c7aa94af5e722</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/15fcdb04378ddfb3e90c7aa94af5e722.mpg</property>
   <property name="proxy_out">335</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0164.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0164.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12602,7 +12602,7 @@
   <property name="kdenlive:file_hash">f022e592d06024e3f787c106585c29f3</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f022e592d06024e3f787c106585c29f3.mpg</property>
   <property name="proxy_out">302</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0165.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0165.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12700,7 +12700,7 @@
   <property name="kdenlive:file_hash">73bca28d0010d0976c635c949cbfc7e7</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/73bca28d0010d0976c635c949cbfc7e7.mpg</property>
   <property name="proxy_out">362</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0166.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0166.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12798,7 +12798,7 @@
   <property name="kdenlive:file_hash">bd3fd145c0d9be589780099b63e5636f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/bd3fd145c0d9be589780099b63e5636f.mpg</property>
   <property name="proxy_out">569</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0167.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0167.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12896,7 +12896,7 @@
   <property name="kdenlive:file_hash">fe58e9a42bbe2c4d4da4768a192c3bbc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fe58e9a42bbe2c4d4da4768a192c3bbc.mpg</property>
   <property name="proxy_out">668</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0168.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0168.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -12994,7 +12994,7 @@
   <property name="kdenlive:file_hash">e2746b83a4e43a5a958116b4cc1ede07</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e2746b83a4e43a5a958116b4cc1ede07.mpg</property>
   <property name="proxy_out">380</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0169.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0169.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13092,7 +13092,7 @@
   <property name="kdenlive:file_hash">39b60f85c9935df1f5f18d59df834a9d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/39b60f85c9935df1f5f18d59df834a9d.mpg</property>
   <property name="proxy_out">191</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0171.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0171.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13190,7 +13190,7 @@
   <property name="kdenlive:file_hash">245b6c5cd984bc1bd942a4bcc61a5e4c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/245b6c5cd984bc1bd942a4bcc61a5e4c.mpg</property>
   <property name="proxy_out">212</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0170.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0170.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13288,7 +13288,7 @@
   <property name="kdenlive:file_hash">fd015d1e71840b295422366fccedea80</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fd015d1e71840b295422366fccedea80.mpg</property>
   <property name="proxy_out">260</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0172.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0172.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13386,7 +13386,7 @@
   <property name="kdenlive:file_hash">30fdaec67023e528b6a7c277346c5a43</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/30fdaec67023e528b6a7c277346c5a43.mpg</property>
   <property name="proxy_out">1391</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0173.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0173.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -20221,7 +20221,7 @@
   <property name="kdenlive:file_hash">eaf6840b256afa72d58f44a72bba6eb5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/eaf6840b256afa72d58f44a72bba6eb5.mpg</property>
   <property name="proxy_out">581</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0159.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0159.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -25051,7 +25051,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/f022e592d06024e3f787c106585c29f3.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f022e592d06024e3f787c106585c29f3.mpg</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0165.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0165.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -25099,7 +25099,7 @@
   <property name="kdenlive:file_hash">fe58e9a42bbe2c4d4da4768a192c3bbc</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fe58e9a42bbe2c4d4da4768a192c3bbc.mpg</property>
   <property name="proxy_out">668</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0168.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0168.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -25279,7 +25279,7 @@
   <property name="kdenlive:file_hash">245b6c5cd984bc1bd942a4bcc61a5e4c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/245b6c5cd984bc1bd942a4bcc61a5e4c.mpg</property>
   <property name="proxy_out">212</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0170.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0170.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -25367,7 +25367,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/bd3fd145c0d9be589780099b63e5636f.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/bd3fd145c0d9be589780099b63e5636f.mpg</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0167.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0167.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -28874,7 +28874,7 @@
   <property name="kdenlive:file_hash">169ac3012c6cb8c51cb3fbba079728e4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/169ac3012c6cb8c51cb3fbba079728e4.mpg</property>
   <property name="proxy_out">452</property>
-  <property name="kdenlive:originalurl">Lac-Yula/DSC_0162.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Yula/DSC_0162.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
