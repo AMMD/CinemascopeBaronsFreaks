@@ -7702,7 +7702,7 @@
   <property name="kdenlive:file_hash">9ac5864a006e64a17fdabfb062089064</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9ac5864a006e64a17fdabfb062089064.mpg</property>
   <property name="proxy_out">797</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0043.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0043.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7800,7 +7800,7 @@
   <property name="kdenlive:file_hash">7ce80b1de3bdb5affaa3cf9aaff8b8d1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/7ce80b1de3bdb5affaa3cf9aaff8b8d1.mpg</property>
   <property name="proxy_out">893</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0042.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0042.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7898,7 +7898,7 @@
   <property name="kdenlive:file_hash">c63184ee1c9de60657eafeedecd4fba6</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c63184ee1c9de60657eafeedecd4fba6.mpg</property>
   <property name="proxy_out">959</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0045.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0045.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -7996,7 +7996,7 @@
   <property name="kdenlive:file_hash">0e3b2db1b63b7d3fa6c73bbaf8a1d9dd</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0e3b2db1b63b7d3fa6c73bbaf8a1d9dd.mpg</property>
   <property name="proxy_out">1118</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0044.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0044.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8094,7 +8094,7 @@
   <property name="kdenlive:file_hash">af331435552885acd80ac3957fe9abdd</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/af331435552885acd80ac3957fe9abdd.mpg</property>
   <property name="proxy_out">1073</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0046.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0046.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8192,7 +8192,7 @@
   <property name="kdenlive:file_hash">20d56096e9f494d7dda0dd33eb267572</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/20d56096e9f494d7dda0dd33eb267572.mpg</property>
   <property name="proxy_out">1616</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0047.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0047.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8290,7 +8290,7 @@
   <property name="kdenlive:file_hash">6e109818fa211f366e7a15c9de5cab0f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6e109818fa211f366e7a15c9de5cab0f.mpg</property>
   <property name="proxy_out">1115</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0048.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0048.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8388,7 +8388,7 @@
   <property name="kdenlive:file_hash">06d973ee637f0dd9e11fba7f4fbd2228</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/06d973ee637f0dd9e11fba7f4fbd2228.mpg</property>
   <property name="proxy_out">1172</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0049.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0049.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8486,7 +8486,7 @@
   <property name="kdenlive:file_hash">5a77f7fb11b5a8e603a53d66f9db7b8e</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5a77f7fb11b5a8e603a53d66f9db7b8e.mpg</property>
   <property name="proxy_out">1127</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0050.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0050.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8584,7 +8584,7 @@
   <property name="kdenlive:file_hash">440ac7ba17e2ba323596766484002efe</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/440ac7ba17e2ba323596766484002efe.mpg</property>
   <property name="proxy_out">164</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0052.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0052.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8682,7 +8682,7 @@
   <property name="kdenlive:file_hash">bad541805206cf47f29765a2b41f109b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/bad541805206cf47f29765a2b41f109b.mpg</property>
   <property name="proxy_out">1202</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0051.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0051.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8780,7 +8780,7 @@
   <property name="kdenlive:file_hash">9f353a15a60a0eb4a0dd79be76471bbd</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9f353a15a60a0eb4a0dd79be76471bbd.mpg</property>
   <property name="proxy_out">1298</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0053.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0053.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8878,7 +8878,7 @@
   <property name="kdenlive:file_hash">742e4e06f6c93e83a75cf4b410be5fa8</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/742e4e06f6c93e83a75cf4b410be5fa8.mpg</property>
   <property name="proxy_out">836</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0055.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0055.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -8976,7 +8976,7 @@
   <property name="kdenlive:file_hash">f2474546d95487c0b5e1e8cf495e8935</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f2474546d95487c0b5e1e8cf495e8935.mpg</property>
   <property name="proxy_out">1763</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0054.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0054.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9074,7 +9074,7 @@
   <property name="kdenlive:file_hash">d505a9399a394db46e4364e9d8ff67b0</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/d505a9399a394db46e4364e9d8ff67b0.mpg</property>
   <property name="proxy_out">1346</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0056.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0056.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9172,7 +9172,7 @@
   <property name="kdenlive:file_hash">6e25fc0428509c4c1873a942d9f1b381</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6e25fc0428509c4c1873a942d9f1b381.mpg</property>
   <property name="proxy_out">1070</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0057.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0057.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9270,7 +9270,7 @@
   <property name="kdenlive:file_hash">c0a8d80bfd71da78e5582198e867c324</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c0a8d80bfd71da78e5582198e867c324.mpg</property>
   <property name="proxy_out">674</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0058.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0058.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9368,7 +9368,7 @@
   <property name="kdenlive:file_hash">374377a24004a9327bbca56e2c341092</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/374377a24004a9327bbca56e2c341092.mpg</property>
   <property name="proxy_out">494</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0060.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9466,7 +9466,7 @@
   <property name="kdenlive:file_hash">5a0c165c5519f8ea6d7fd654d6cd4429</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5a0c165c5519f8ea6d7fd654d6cd4429.mpg</property>
   <property name="proxy_out">1214</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0059.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0059.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9564,7 +9564,7 @@
   <property name="kdenlive:file_hash">6047038c65a925156729f19fb97d72da</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6047038c65a925156729f19fb97d72da.mpg</property>
   <property name="proxy_out">386</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0061.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0061.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9662,7 +9662,7 @@
   <property name="kdenlive:file_hash">5b9dc0a642a9949a663ecf4d3b3adcc2</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5b9dc0a642a9949a663ecf4d3b3adcc2.mpg</property>
   <property name="proxy_out">488</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0063.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9760,7 +9760,7 @@
   <property name="kdenlive:file_hash">17f08e4a7188accff22499fdf2b55a12</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/17f08e4a7188accff22499fdf2b55a12.mpg</property>
   <property name="proxy_out">350</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0064.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0064.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9858,7 +9858,7 @@
   <property name="kdenlive:file_hash">fc7b54fea284abf7959611151e3d2c8b</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/fc7b54fea284abf7959611151e3d2c8b.mpg</property>
   <property name="proxy_out">26</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0065.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0065.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -9956,7 +9956,7 @@
   <property name="kdenlive:file_hash">9920cb496c485aaf855e26a00acde5d5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9920cb496c485aaf855e26a00acde5d5.mpg</property>
   <property name="proxy_out">428</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0066.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0066.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10054,7 +10054,7 @@
   <property name="kdenlive:file_hash">4961abad78244a4bf1051aa79726f268</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/4961abad78244a4bf1051aa79726f268.mpg</property>
   <property name="proxy_out">2111</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0062.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10152,7 +10152,7 @@
   <property name="kdenlive:file_hash">dd047423f1e15a6ff5f3c20aa2384f81</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/dd047423f1e15a6ff5f3c20aa2384f81.mpg</property>
   <property name="proxy_out">554</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0067.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0067.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10250,7 +10250,7 @@
   <property name="kdenlive:file_hash">169b86fcfc862f96d00ffddf4b5199d7</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/169b86fcfc862f96d00ffddf4b5199d7.mpg</property>
   <property name="proxy_out">956</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0068.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0068.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10348,7 +10348,7 @@
   <property name="kdenlive:file_hash">ab2ad2573f54dd03d626ad42bc78cf85</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/ab2ad2573f54dd03d626ad42bc78cf85.mpg</property>
   <property name="proxy_out">83</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0070.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0070.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10446,7 +10446,7 @@
   <property name="kdenlive:file_hash">8e521fe34ab87225626ad6808f757c21</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8e521fe34ab87225626ad6808f757c21.mpg</property>
   <property name="proxy_out">851</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0069.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0069.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10544,7 +10544,7 @@
   <property name="kdenlive:file_hash">05034379687709b76d70c043db7f25a6</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/05034379687709b76d70c043db7f25a6.mpg</property>
   <property name="proxy_out">470</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0071.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0071.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10642,7 +10642,7 @@
   <property name="kdenlive:file_hash">f601e8172f68214881039853bbe1301a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f601e8172f68214881039853bbe1301a.mpg</property>
   <property name="proxy_out">482</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0073.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0073.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10740,7 +10740,7 @@
   <property name="kdenlive:file_hash">288b0776892a57ba0205650a55ee759c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/288b0776892a57ba0205650a55ee759c.mpg</property>
   <property name="proxy_out">362</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0074.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0074.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10838,7 +10838,7 @@
   <property name="kdenlive:file_hash">579ff9e21f63075ce89b3b1249092ec3</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/579ff9e21f63075ce89b3b1249092ec3.mpg</property>
   <property name="proxy_out">395</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0075.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0075.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -10936,7 +10936,7 @@
   <property name="kdenlive:file_hash">b6dfce2c0d2075875dc8eb6b3622a23a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b6dfce2c0d2075875dc8eb6b3622a23a.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0076.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0076.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11034,7 +11034,7 @@
   <property name="kdenlive:file_hash">c69b57d25eb31b321ef5309cedfeaff9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c69b57d25eb31b321ef5309cedfeaff9.mpg</property>
   <property name="proxy_out">2258</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0072.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0072.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11132,7 +11132,7 @@
   <property name="kdenlive:file_hash">58edcaf643d22d75871a5d5a401b5ec3</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/58edcaf643d22d75871a5d5a401b5ec3.mpg</property>
   <property name="proxy_out">176</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0077.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0077.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -11230,7 +11230,7 @@
   <property name="kdenlive:file_hash">603ccebb2afc219cb54afacebfea5904</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/603ccebb2afc219cb54afacebfea5904.mpg</property>
   <property name="proxy_out">362</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0078.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0078.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15888,7 +15888,7 @@
   <property name="kdenlive:file_hash">6651605f9d69afcf60ade1ffb09a3209</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6651605f9d69afcf60ade1ffb09a3209.mpg</property>
   <property name="proxy_out">104</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0144.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0144.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15986,7 +15986,7 @@
   <property name="kdenlive:file_hash">90c28c2165f3a0d32107331965da6679</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/90c28c2165f3a0d32107331965da6679.mpg</property>
   <property name="proxy_out">44</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0145.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0145.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -16084,7 +16084,7 @@
   <property name="kdenlive:file_hash">6e7234eda117940d4e03903f445781f4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6e7234eda117940d4e03903f445781f4.mpg</property>
   <property name="proxy_out">152</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0147.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0147.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -16182,7 +16182,7 @@
   <property name="kdenlive:file_hash">8c9c37431d43f3e98a329f3bd35c8b35</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8c9c37431d43f3e98a329f3bd35c8b35.mpg</property>
   <property name="proxy_out">200</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0148.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0148.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -16280,7 +16280,7 @@
   <property name="kdenlive:file_hash">677d8721d45b39053dfed0fd2b2aa691</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/677d8721d45b39053dfed0fd2b2aa691.mpg</property>
   <property name="proxy_out">509</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0146.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0146.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -17113,7 +17113,7 @@
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.1">panneaux</property>
   <property name="kdenlive:folder.-1.2">Sources/Videos/SdB_Raspoutine</property>
-  <property name="kdenlive:folder.-1.3">SdB_Sal-Rasp</property>
+  <property name="kdenlive:folder.-1.3">Sources/Videos/SdB_Sal-Rasp</property>
   <property name="kdenlive:docproperties.renderaudioquality">128</property>
   <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
@@ -19229,7 +19229,7 @@
   <property name="kdenlive:file_hash">06d973ee637f0dd9e11fba7f4fbd2228</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/06d973ee637f0dd9e11fba7f4fbd2228.mpg</property>
   <property name="proxy_out">1172</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0049.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0049.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -19319,7 +19319,7 @@
   <property name="kdenlive:file_hash">5a0c165c5519f8ea6d7fd654d6cd4429</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5a0c165c5519f8ea6d7fd654d6cd4429.mpg</property>
   <property name="proxy_out">1214</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0059.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0059.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -23481,7 +23481,7 @@
   <property name="kdenlive:file_hash">b6dfce2c0d2075875dc8eb6b3622a23a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b6dfce2c0d2075875dc8eb6b3622a23a.mpg</property>
   <property name="proxy_out">389</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0076.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0076.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -23569,7 +23569,7 @@
   <property name="warp_resource">/home/nicolas/.cache/kdenlive/proxy/9f353a15a60a0eb4a0dd79be76471bbd.mpg</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9f353a15a60a0eb4a0dd79be76471bbd.mpg</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0053.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0053.MOV</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -23617,7 +23617,7 @@
   <property name="kdenlive:file_hash">9f353a15a60a0eb4a0dd79be76471bbd</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9f353a15a60a0eb4a0dd79be76471bbd.mpg</property>
   <property name="proxy_out">1298</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0053.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0053.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -23707,7 +23707,7 @@
   <property name="kdenlive:file_hash">9920cb496c485aaf855e26a00acde5d5</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/9920cb496c485aaf855e26a00acde5d5.mpg</property>
   <property name="proxy_out">428</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0066.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0066.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -23797,7 +23797,7 @@
   <property name="kdenlive:file_hash">8c9c37431d43f3e98a329f3bd35c8b35</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8c9c37431d43f3e98a329f3bd35c8b35.mpg</property>
   <property name="proxy_out">200</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0148.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0148.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -27490,7 +27490,7 @@
   <property name="kdenlive:file_hash">06d973ee637f0dd9e11fba7f4fbd2228</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/06d973ee637f0dd9e11fba7f4fbd2228.mpg</property>
   <property name="proxy_out">1172</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0049.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0049.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -27580,7 +27580,7 @@
   <property name="kdenlive:file_hash">6e25fc0428509c4c1873a942d9f1b381</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6e25fc0428509c4c1873a942d9f1b381.mpg</property>
   <property name="proxy_out">1070</property>
-  <property name="kdenlive:originalurl">SdB_Sal-Rasp/DSC_0057.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/SdB_Sal-Rasp/DSC_0057.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
