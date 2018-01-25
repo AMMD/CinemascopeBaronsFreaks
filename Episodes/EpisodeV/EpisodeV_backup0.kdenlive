@@ -13536,7 +13536,7 @@
   <property name="kdenlive:file_hash">2985c474ae5e7fd2bfa78dca8c3ffc09</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2985c474ae5e7fd2bfa78dca8c3ffc09.mpg</property>
   <property name="proxy_out">101</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0161.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0161.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13634,7 +13634,7 @@
   <property name="kdenlive:file_hash">104ba33e34efbb984ca4860775b52b90</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/104ba33e34efbb984ca4860775b52b90.mpg</property>
   <property name="proxy_out">113</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0162.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0162.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13732,7 +13732,7 @@
   <property name="kdenlive:file_hash">acf790ddd93e65159c4e4321e386566c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/acf790ddd93e65159c4e4321e386566c.mpg</property>
   <property name="proxy_out">584</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0160.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0160.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13830,7 +13830,7 @@
   <property name="kdenlive:file_hash">e2e5aec7a21e90830e2768ab14b91949</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e2e5aec7a21e90830e2768ab14b91949.mpg</property>
   <property name="proxy_out">416</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0163.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0163.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -13928,7 +13928,7 @@
   <property name="kdenlive:file_hash">8907dad93011bbc30a0e0efdf2725700</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8907dad93011bbc30a0e0efdf2725700.mpg</property>
   <property name="proxy_out">362</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0164.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0164.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14026,7 +14026,7 @@
   <property name="kdenlive:file_hash">6415c761de5bffc5cd678ac6b18ce292</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/6415c761de5bffc5cd678ac6b18ce292.mpg</property>
   <property name="proxy_out">212</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0166.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0166.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14124,7 +14124,7 @@
   <property name="kdenlive:file_hash">446a33d4cc53562140ef5432b81eedeb</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/446a33d4cc53562140ef5432b81eedeb.mpg</property>
   <property name="proxy_out">308</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0165.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0165.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14222,7 +14222,7 @@
   <property name="kdenlive:file_hash">8748b53631409e2385b977ffd00a9a65</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/8748b53631409e2385b977ffd00a9a65.mpg</property>
   <property name="proxy_out">161</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0168.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0168.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14320,7 +14320,7 @@
   <property name="kdenlive:file_hash">899b21a8b76288f80f55c420d0d0b685</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/899b21a8b76288f80f55c420d0d0b685.mpg</property>
   <property name="proxy_out">347</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0167.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0167.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14418,7 +14418,7 @@
   <property name="kdenlive:file_hash">0c4c23af7b7590b00d9165b2f58bd54e</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/0c4c23af7b7590b00d9165b2f58bd54e.mpg</property>
   <property name="proxy_out">398</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0169.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0169.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14516,7 +14516,7 @@
   <property name="kdenlive:file_hash">4b7dbd7156d3f6299c37fd69144b1021</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/4b7dbd7156d3f6299c37fd69144b1021.mpg</property>
   <property name="proxy_out">173</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0172.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0172.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14614,7 +14614,7 @@
   <property name="kdenlive:file_hash">edf7f044aa417311a22b016d3e6394aa</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/edf7f044aa417311a22b016d3e6394aa.mpg</property>
   <property name="proxy_out">287</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0171.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0171.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14712,7 +14712,7 @@
   <property name="kdenlive:file_hash">1889d703419ca43223ac9da68bacc71f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/1889d703419ca43223ac9da68bacc71f.mpg</property>
   <property name="proxy_out">446</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0173.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0173.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14810,7 +14810,7 @@
   <property name="kdenlive:file_hash">25d4d64262db5d521010c0570c59538e</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/25d4d64262db5d521010c0570c59538e.mpg</property>
   <property name="proxy_out">521</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0174.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0174.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -14908,7 +14908,7 @@
   <property name="kdenlive:file_hash">d69d436abe206d49da8efcb64dfefd6d</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/d69d436abe206d49da8efcb64dfefd6d.mpg</property>
   <property name="proxy_out">95</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0176.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0176.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15006,7 +15006,7 @@
   <property name="kdenlive:file_hash">757777e89896d4ab08d49ae96a855a2f</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/757777e89896d4ab08d49ae96a855a2f.mpg</property>
   <property name="proxy_out">323</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0175.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0175.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15104,7 +15104,7 @@
   <property name="kdenlive:file_hash">c00655b86a69362964b4800cbcba1ed1</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/c00655b86a69362964b4800cbcba1ed1.mpg</property>
   <property name="proxy_out">305</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0177.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0177.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15202,7 +15202,7 @@
   <property name="kdenlive:file_hash">b18c417ca43fc1d22b367a13b4760179</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b18c417ca43fc1d22b367a13b4760179.mpg</property>
   <property name="proxy_out">515</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0178.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0178.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15300,7 +15300,7 @@
   <property name="kdenlive:file_hash">e3e409e265c9a90f757a3343d1241bd4</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e3e409e265c9a90f757a3343d1241bd4.mpg</property>
   <property name="proxy_out">305</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0179.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0179.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15398,7 +15398,7 @@
   <property name="kdenlive:file_hash">92977b0ee171ac590b1988ad1e1e3d9a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/92977b0ee171ac590b1988ad1e1e3d9a.mpg</property>
   <property name="proxy_out">398</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0180.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0180.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15496,7 +15496,7 @@
   <property name="kdenlive:file_hash">e864b0619140266bef5a159bb4aef74c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e864b0619140266bef5a159bb4aef74c.mpg</property>
   <property name="proxy_out">233</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0182.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0182.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15594,7 +15594,7 @@
   <property name="kdenlive:file_size">32232965</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b0384036d6cc6b67cbe904755e382cf2.mpg</property>
   <property name="proxy_out">632</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0181.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0181.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15692,7 +15692,7 @@
   <property name="kdenlive:file_hash">e35c0fa39ed0f84df59c4402d72c4f24</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e35c0fa39ed0f84df59c4402d72c4f24.mpg</property>
   <property name="proxy_out">581</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0183.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0183.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -15790,7 +15790,7 @@
   <property name="kdenlive:file_hash">f68a9a5519504ee5e895a6c1b307eace</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f68a9a5519504ee5e895a6c1b307eace.mpg</property>
   <property name="proxy_out">821</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0184.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0184.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -23887,7 +23887,7 @@
   <property name="kdenlive:file_hash">92977b0ee171ac590b1988ad1e1e3d9a</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/92977b0ee171ac590b1988ad1e1e3d9a.mpg</property>
   <property name="proxy_out">398</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0180.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0180.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -23977,7 +23977,7 @@
   <property name="kdenlive:file_hash">b18c417ca43fc1d22b367a13b4760179</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b18c417ca43fc1d22b367a13b4760179.mpg</property>
   <property name="proxy_out">515</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0178.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0178.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -24067,7 +24067,7 @@
   <property name="kdenlive:file_hash">acf790ddd93e65159c4e4321e386566c</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/acf790ddd93e65159c4e4321e386566c.mpg</property>
   <property name="proxy_out">584</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0160.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0160.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -24339,7 +24339,7 @@
   <property name="kdenlive:file_hash">f68a9a5519504ee5e895a6c1b307eace</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/f68a9a5519504ee5e895a6c1b307eace.mpg</property>
   <property name="proxy_out">821</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0184.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0184.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -27850,7 +27850,7 @@
   <property name="kdenlive:file_hash">446a33d4cc53562140ef5432b81eedeb</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/446a33d4cc53562140ef5432b81eedeb.mpg</property>
   <property name="proxy_out">308</property>
-  <property name="kdenlive:originalurl">Lac-Vincent/DSC_0165.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/Lac-Vincent/DSC_0165.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
