@@ -38,7 +38,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">1</property>
   <property name="kdenlive:docproperties.generateproxy">1</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">3561</property>
+  <property name="kdenlive:docproperties.position">3423</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -73,7 +73,7 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/nicolas/render finaux/final_final/Episode5_MASTER-2018-01-08.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Bureau/Episode0-2018-01-25.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
   <entry out="124" producer="1" in="0"/>

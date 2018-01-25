@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" version="6.4.1" root="/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/EpisodeII" producer="main bin" LC_NUMERIC="fr_FR.UTF-8">
+<mlt title="Anonymous Submission" version="6.4.1" root="/home/nicolas/Documents/Projets Musique/Barons Freaks/CinemascopeBaronsFreaks/Episodes/EpisodeII" producer="main bin" LC_NUMERIC="fr_FR.UTF-8">
  <profile width="1280" frame_rate_den="1" height="720" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 720p 25 fps" progressive="1" sample_aspect_num="1"/>
  <producer id="18" title="Anonymous Submission" out="563" in="0">
   <property name="length">00:00:22:14</property>
@@ -2748,7 +2748,7 @@
  <producer id="46" out="9172" in="0">
   <property name="length">9173</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/Crop4tiers2.png</property>
+  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/CinemascopeBaronsFreaks/Commun/Images/Crop4tiers2.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2780,7 +2780,7 @@
   <property name="kdenlive:file_hash">5e07bfaf57fb3e14f66fa7ff01b073a9</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5e07bfaf57fb3e14f66fa7ff01b073a9.png</property>
   <property name="proxy_out">124</property>
-  <property name="kdenlive:originalurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/COURTS METRAGES - MAIN/COURTS METRAGES/Diaphragme2.png</property>
+  <property name="kdenlive:originalurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/CinemascopeBaronsFreaks/Commun/Images/Diaphragme2.png</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.width">2560</property>
   <property name="kdenlive:meta.media.height">1440</property>
@@ -2788,7 +2788,7 @@
  <producer id="48" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">panneaux/on y voir rien là dedans.png</property>
+  <property name="resource">Sources/Panneaux/on y voir rien là dedans.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2802,6 +2802,23 @@
   <property name="kdenlive:file_hash">4ac18eb5e0e19af48a4dbd3303b22f42</property>
   <property name="kdenlive:folderid">1</property>
  </producer>
+ <producer id="50" out="124" in="0">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">Sources/Panneaux/mais où est passé mon sac.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">603302</property>
+  <property name="kdenlive:file_hash">b370b5b1392909199d601909db2552ac</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:docproperties.audiotargettrack">-1</property>
   <property name="kdenlive:docproperties.decimalPoint">,</property>
@@ -2812,7 +2829,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">1</property>
   <property name="kdenlive:docproperties.generateproxy">1</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">4244</property>
+  <property name="kdenlive:docproperties.position">3652</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -2826,7 +2843,7 @@
   <property name="kdenlive:docproperties.videotargettrack">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">6928</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zoom">6</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:docproperties.renderaudioquality">192</property>
@@ -2882,6 +2899,7 @@
   <entry out="124" producer="46" in="0"/>
   <entry out="124" producer="47" in="0"/>
   <entry out="124" producer="48" in="0"/>
+  <entry out="124" producer="50" in="0"/>
  </playlist>
  <producer id="black" out="500" in="0">
   <property name="length">15000</property>
@@ -2892,10 +2910,26 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="4883" producer="black" in="0"/>
+  <entry out="4873" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Video 1</property>
+  <filter id="frei0r.scale0tilt">
+   <property name="version">0,1</property>
+   <property name="mlt_service">frei0r.scale0tilt</property>
+   <property name="kdenlive_id">frei0r.scale0tilt</property>
+   <property name="tag">frei0r.scale0tilt</property>
+   <property name="kdenlive_ix">1</property>
+   <property name="kdenlive_info">1/-1/</property>
+   <property name="Clip left">0</property>
+   <property name="Clip right">0</property>
+   <property name="Clip top">0,00555556</property>
+   <property name="Clip bottom">0,00555556</property>
+   <property name="Scale X">0,5</property>
+   <property name="Scale Y">0,5</property>
+   <property name="Tilt X">0,5</property>
+   <property name="Tilt Y">0,5</property>
+  </filter>
  </playlist>
  <producer id="21_playlist2" title="Anonymous Submission" out="803" in="0">
   <property name="length">00:00:32:04</property>
@@ -3125,11 +3159,11 @@
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:track_name">Video 2</property>
-  <blank length="1996"/>
+  <blank length="1351"/>
   <entry out="686" producer="21_playlist2" in="357"/>
   <blank length="634"/>
   <entry out="1156" producer="28_playlist2" in="1059">
-   <filter id="frei0r.scale0tilt">
+   <filter id="filter0">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3147,7 +3181,7 @@
    </filter>
   </entry>
   <entry out="1660" producer="28_playlist2" in="1451">
-   <filter id="filter0">
+   <filter id="filter1">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3166,7 +3200,7 @@
   </entry>
   <blank length="988"/>
   <entry out="382" producer="slowmotion:37:1,52:1:0" in="337">
-   <filter id="filter1">
+   <filter id="filter2">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3183,6 +3217,22 @@
     <property name="kdenlive_info"/>
    </filter>
   </entry>
+  <filter id="filter3">
+   <property name="version">0,1</property>
+   <property name="mlt_service">frei0r.scale0tilt</property>
+   <property name="kdenlive_id">frei0r.scale0tilt</property>
+   <property name="tag">frei0r.scale0tilt</property>
+   <property name="kdenlive_ix">1</property>
+   <property name="kdenlive_info">1/-1/</property>
+   <property name="Clip left">0</property>
+   <property name="Clip right">0</property>
+   <property name="Clip top">0,00555556</property>
+   <property name="Clip bottom">0,00555556</property>
+   <property name="Scale X">0,5</property>
+   <property name="Scale Y">0,5</property>
+   <property name="Tilt X">0,5</property>
+   <property name="Tilt Y">0,5</property>
+  </filter>
  </playlist>
  <producer id="20_playlist3" title="Anonymous Submission" out="743" in="0">
   <property name="length">00:00:29:19</property>
@@ -3826,7 +3876,7 @@
  </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 3</property>
-  <blank length="1838"/>
+  <blank length="1193"/>
   <entry out="349" producer="20_playlist3" in="174"/>
   <blank length="926"/>
   <entry out="1350" producer="slowmotion:28:0,6:1:0" in="1331">
@@ -3844,7 +3894,7 @@
   </entry>
   <blank length="308"/>
   <entry out="139" producer="slowmotion:34:1,1:1:0" in="66">
-   <filter id="filter2">
+   <filter id="filter4">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3862,7 +3912,7 @@
    </filter>
   </entry>
   <entry out="203" producer="slowmotion:34:1,03:1:0" in="150">
-   <filter id="filter3">
+   <filter id="filter5">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3880,7 +3930,7 @@
    </filter>
   </entry>
   <entry out="280" producer="slowmotion:34:1,15:1:0" in="204">
-   <filter id="filter4">
+   <filter id="filter6">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3934,7 +3984,7 @@
    </filter>
   </entry>
   <entry out="329" producer="slowmotion:34:1,2:1:0" in="328">
-   <filter id="filter5">
+   <filter id="filter9">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3950,7 +4000,7 @@
     <property name="Tilt Y">0,5</property>
     <property name="kdenlive_info"/>
    </filter>
-   <filter id="filter6" out="329" in="328">
+   <filter id="filter10" out="329" in="328">
     <property name="background">colour:0x00000000</property>
     <property name="mlt_service">affine</property>
     <property name="kdenlive_id">pan_zoom</property>
@@ -3964,7 +4014,7 @@
    </filter>
   </entry>
   <entry out="331" producer="slowmotion:34:1,2:1:0" in="330">
-   <filter id="filter9">
+   <filter id="filter11">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -3982,7 +4032,7 @@
    </filter>
   </entry>
   <entry out="333" producer="slowmotion:34:1,2:1:0" in="332">
-   <filter id="filter10">
+   <filter id="filter12">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4001,7 +4051,7 @@
    </filter>
   </entry>
   <entry out="374" producer="slowmotion:34:1,2:1:0" in="334">
-   <filter id="filter11">
+   <filter id="filter13">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4020,44 +4070,6 @@
   </entry>
   <blank length="419"/>
   <entry out="243" producer="slowmotion:36:1,1:1:0" in="130">
-   <filter id="filter12">
-    <property name="version">0,1</property>
-    <property name="mlt_service">frei0r.scale0tilt</property>
-    <property name="kdenlive_id">frei0r.scale0tilt</property>
-    <property name="tag">frei0r.scale0tilt</property>
-    <property name="kdenlive_info"/>
-    <property name="kdenlive_ix">2</property>
-    <property name="disable"/>
-    <property name="Clip left">0</property>
-    <property name="Clip right">0</property>
-    <property name="Clip top">0</property>
-    <property name="Clip bottom">0</property>
-    <property name="Scale X">0,5</property>
-    <property name="Scale Y">0,5</property>
-    <property name="Tilt X">0,542969</property>
-    <property name="Tilt Y">0,5</property>
-   </filter>
-  </entry>
-  <entry out="279" producer="slowmotion:36:1,19:1:0" in="225">
-   <filter id="filter13">
-    <property name="version">0,1</property>
-    <property name="mlt_service">frei0r.scale0tilt</property>
-    <property name="kdenlive_id">frei0r.scale0tilt</property>
-    <property name="tag">frei0r.scale0tilt</property>
-    <property name="kdenlive_info"/>
-    <property name="kdenlive_ix">2</property>
-    <property name="disable"/>
-    <property name="Clip left">0</property>
-    <property name="Clip right">0</property>
-    <property name="Clip top">0</property>
-    <property name="Clip bottom">0</property>
-    <property name="Scale X">0,5</property>
-    <property name="Scale Y">0,5</property>
-    <property name="Tilt X">0,542969</property>
-    <property name="Tilt Y">0,5</property>
-   </filter>
-  </entry>
-  <entry out="296" producer="slowmotion:36:1,3:1:0" in="256">
    <filter id="filter14">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -4076,7 +4088,7 @@
     <property name="Tilt Y">0,5</property>
    </filter>
   </entry>
-  <entry out="312" producer="slowmotion:36:1,43:1:0" in="270">
+  <entry out="279" producer="slowmotion:36:1,19:1:0" in="225">
    <filter id="filter15">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -4095,8 +4107,46 @@
     <property name="Tilt Y">0,5</property>
    </filter>
   </entry>
-  <entry out="366" producer="slowmotion:36:1,47:1:0" in="304">
+  <entry out="296" producer="slowmotion:36:1,3:1:0" in="256">
    <filter id="filter16">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0</property>
+    <property name="Clip bottom">0</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,542969</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <entry out="312" producer="slowmotion:36:1,43:1:0" in="270">
+   <filter id="filter17">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0</property>
+    <property name="Clip bottom">0</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,542969</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <entry out="366" producer="slowmotion:36:1,47:1:0" in="304">
+   <filter id="filter18">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4116,7 +4166,7 @@
   </entry>
   <blank length="15"/>
   <entry out="551" producer="40_playlist3" in="0">
-   <filter id="filter17">
+   <filter id="filter19">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4134,6 +4184,22 @@
     <property name="Tilt Y">0,5</property>
    </filter>
   </entry>
+  <filter id="filter20">
+   <property name="version">0,1</property>
+   <property name="mlt_service">frei0r.scale0tilt</property>
+   <property name="kdenlive_id">frei0r.scale0tilt</property>
+   <property name="tag">frei0r.scale0tilt</property>
+   <property name="kdenlive_ix">1</property>
+   <property name="kdenlive_info">1/-1/</property>
+   <property name="Clip left">0</property>
+   <property name="Clip right">0</property>
+   <property name="Clip top">0,00555556</property>
+   <property name="Clip bottom">0,00555556</property>
+   <property name="Scale X">0,5</property>
+   <property name="Scale Y">0,5</property>
+   <property name="Tilt X">0,5</property>
+   <property name="Tilt Y">0,5</property>
+  </filter>
  </playlist>
  <producer id="43_playlist4" title="Anonymous Submission" out="989" in="0">
   <property name="length">00:00:39:15</property>
@@ -4679,16 +4745,15 @@
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 4</property>
-  <blank length="593"/>
-  <entry out="283" producer="43_playlist4" in="0"/>
+  <entry out="211" producer="43_playlist4" in="0"/>
+  <entry out="124" producer="50" in="0"/>
+  <entry out="938" producer="43_playlist4" in="778"/>
   <entry out="101" producer="48" in="0"/>
-  <entry out="362" producer="43_playlist4" in="331"/>
-  <entry out="938" producer="43_playlist4" in="705"/>
   <entry out="354" producer="44_playlist4" in="30"/>
   <entry out="336" producer="19_playlist4" in="69"/>
   <blank length="488"/>
   <entry out="554" producer="28_playlist4" in="42">
-   <filter id="filter18">
+   <filter id="filter21">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4705,7 +4770,7 @@
    </filter>
   </entry>
   <entry out="809" producer="28_playlist4" in="709">
-   <filter id="filter19">
+   <filter id="filter22">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4725,7 +4790,7 @@
   <entry out="19" producer="47" in="0"/>
   <blank length="621"/>
   <entry out="289" producer="37_playlist4" in="0">
-   <filter id="filter20">
+   <filter id="filter23">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4743,7 +4808,7 @@
    </filter>
   </entry>
   <entry out="370" producer="slowmotion:37:1,02:1:0" in="284">
-   <filter id="filter21">
+   <filter id="filter24">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4761,7 +4826,7 @@
    </filter>
   </entry>
   <entry out="398" producer="slowmotion:37:1,06:1:0" in="357">
-   <filter id="filter22">
+   <filter id="filter25">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4780,7 +4845,7 @@
   </entry>
   <blank length="204"/>
   <entry out="509" producer="slowmotion:37:1,52:1:0" in="383">
-   <filter id="filter23">
+   <filter id="filter26">
     <property name="version">0,1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -4797,13 +4862,29 @@
     <property name="kdenlive_info"/>
    </filter>
   </entry>
+  <filter id="filter27">
+   <property name="version">0,1</property>
+   <property name="mlt_service">frei0r.scale0tilt</property>
+   <property name="kdenlive_id">frei0r.scale0tilt</property>
+   <property name="tag">frei0r.scale0tilt</property>
+   <property name="kdenlive_ix">1</property>
+   <property name="kdenlive_info">1/-1/</property>
+   <property name="Clip left">0</property>
+   <property name="Clip right">0</property>
+   <property name="Clip top">0,00555556</property>
+   <property name="Clip bottom">0,00555556</property>
+   <property name="Scale X">0,5</property>
+   <property name="Scale Y">0,5</property>
+   <property name="Tilt X">0,5</property>
+   <property name="Tilt Y">0,5</property>
+  </filter>
  </playlist>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 5</property>
   <property name="kdenlive:locked_track">1</property>
   <entry out="4872" producer="46" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="4883" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="4873" in="0">
   <track producer="black_track"/>
   <track producer="playlist1"/>
   <track producer="playlist2"/>
@@ -4872,7 +4953,7 @@
    <property name="valign">middle</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition6" out="2959" in="2940">
+  <transition id="transition6" out="2314" in="2295">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="version">0,2</property>
@@ -4880,7 +4961,7 @@
    <property name="automatic">1</property>
    <property name="force_track">1</property>
   </transition>
-  <transition id="transition8" out="2013" in="1996">
+  <transition id="transition8" out="1368" in="1351">
    <property name="a_track">2</property>
    <property name="b_track">3</property>
    <property name="factory">loader</property>
