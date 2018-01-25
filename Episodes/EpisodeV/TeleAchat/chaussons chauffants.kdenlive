@@ -55,7 +55,7 @@
   <property name="kdenlive:file_hash">b6d916f9763d4a78acf1842c4b118aed</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b6d916f9763d4a78acf1842c4b118aed.mpg</property>
   <property name="proxy_out">695</property>
-  <property name="kdenlive:originalurl">DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0060.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -201,7 +201,7 @@
   <property name="kdenlive:file_hash">2158d5f6ff0bedc9129ccd418d1f9d27</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2158d5f6ff0bedc9129ccd418d1f9d27.mpg</property>
   <property name="proxy_out">347</property>
-  <property name="kdenlive:originalurl">DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0062.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -298,7 +298,7 @@
   <property name="kdenlive:file_size">20119494</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e81a9e708c738ed9eb41fa305de7695b.mpg</property>
   <property name="proxy_out">350</property>
-  <property name="kdenlive:originalurl">DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0063.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -511,7 +511,7 @@
   <property name="kdenlive:file_hash">62cb3ca4c01df4eb965ec4f97d592156</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/62cb3ca4c01df4eb965ec4f97d592156.mpg</property>
   <property name="proxy_out">572</property>
-  <property name="kdenlive:originalurl">DSC_0056.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0056.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -989,7 +989,7 @@
   <property name="kdenlive:file_hash">b6d916f9763d4a78acf1842c4b118aed</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/b6d916f9763d4a78acf1842c4b118aed.mpg</property>
   <property name="proxy_out">695</property>
-  <property name="kdenlive:originalurl">DSC_0060.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0060.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1078,7 +1078,7 @@
   <property name="kdenlive:file_hash">2158d5f6ff0bedc9129ccd418d1f9d27</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/2158d5f6ff0bedc9129ccd418d1f9d27.mpg</property>
   <property name="proxy_out">347</property>
-  <property name="kdenlive:originalurl">DSC_0062.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0062.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1167,7 +1167,7 @@
   <property name="kdenlive:file_size">20119494</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/e81a9e708c738ed9eb41fa305de7695b.mpg</property>
   <property name="proxy_out">350</property>
-  <property name="kdenlive:originalurl">DSC_0063.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0063.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
@@ -1256,7 +1256,7 @@
   <property name="kdenlive:file_hash">62cb3ca4c01df4eb965ec4f97d592156</property>
   <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/62cb3ca4c01df4eb965ec4f97d592156.mpg</property>
   <property name="proxy_out">572</property>
-  <property name="kdenlive:originalurl">DSC_0056.MOV</property>
+  <property name="kdenlive:originalurl">Sources/Videos/ChaussonsChauffants/DSC_0056.MOV</property>
   <property name="global_feed">1</property>
   <property name="kdenlive:meta.media.nb_streams">2</property>
   <property name="kdenlive:meta.media.0.stream.type">video</property>
